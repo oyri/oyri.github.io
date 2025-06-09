@@ -60,13 +60,13 @@ Om du heller vil ha ein lettare og flatare tur, byr Gunvordalen på roleg natur 
 ![Fagereggi](img/fagereggi-vatn-regn-jpeg)
 
 **Om turen**  
-^[Ein enkel familietur som går roleg opp til tregrensa, med fleire små fjellvatn perfekt til fiske. Vanlegvis berre rundt 1 time å gå opp.]({"attribution":{"attributableIndex":"0-15"}})
+Ein enkel familietur som går roleg opp til tregrensa, med fleire små fjellvatn perfekt til fiske. Vanlegvis berre rundt 1 time å gå opp.
 
-- ^[🚗 Køyreavstand: 0, kan gå rett frå hytta / (frå Sogndal Skisenter / Hodlekve)]({"attribution":{"attributableIndex":"0-16"}})  
-- ^[⏱️ Tidsbruk: ca. 1 time opp – enkel tur]({"attribution":{"attributableIndex":"0-17"}})  
+- 🚗 Køyreavstand: 0, kan gå rett frå hytta / (frå Sogndal Skisenter / Hodlekve)
+- ⏱️ Tidsbruk: ca. 1 time opp – enkel tur
 - 🥾 Vanskelighetsgrad: Lett  
-- ^[🎣 Fiskemoglegheit: Ja – mange små vatn med aure. Fiskekort kr 30/dag (barn under 16 gratis)]({"attribution":{"attributableIndex":"0-18"}})  [oai_citation:0‡aktiviteter.dnt.no](https://aktiviteter.dnt.no/register/turtilengjadalenmedsogndalgalag1_24022025023334?utm_source=chatgpt.com) [oai_citation:1‡fjordnorway.com](https://www.fjordnorway.com/en/see-and-do/ski-weekend-in-sogndal?utm_source=chatgpt.com) [oai_citation:2‡visitnorway.no](https://www.visitnorway.no/listings/g%C3%A5tur-til-fagreggi/261753/?utm_source=chatgpt.com) [oai_citation:3‡visitnorway.com](https://www.visitnorway.com/listings/hike-to-fagreggi/261752/?utm_source=chatgpt.com)  
-- ^[🔗 [Les meir og bestill tur på Visit Norway](https://www.visitnorway.com/listings/hike-to-fagreggi/261752/)]({"attribution":{"attributableIndex":"2533-0"}})
+- 🎣 Fiskemoglegheit: Ja – mange små vatn med aure. Fiskekort kr 30/dag (barn under 16 gratis)
+- 🔗 (https://www.visitnorway.no/listings/g%C3%A5tur-til-fagreggi/261753)
 
 ---
 
@@ -75,15 +75,17 @@ Om du heller vil ha ein lettare og flatare tur, byr Gunvordalen på roleg natur 
 ![Anestølen](https://www.visitnorway.com/listings/guida-st%C3%B8lsbes%C3%B8k-anest%C3%B8len-sogndal/245705/)
 
 **Om turen**  
-^[Den perfekte familieturen: roleg vandring langs dalen, møte med over 400–600 beitande geiter – og moglegheit for å fiske eller bade i Anestølsvatnet. ({"attribution":{"attributableIndex":"0-2"}})  [oai_citation:0‡visitnorway.no](https://www.visitnorway.no/listings/guida-st%C3%B8lsbes%C3%B8k-anest%C3%B8len-sogndal/245705/?utm_source=chatgpt.com).
+Den perfekte familieturen: roleg vandring langs dalen, møte med over 400–600 beitande geiter – og moglegheit for å fiske eller bade i Anestølsvatnet. 
 
-- ^[🚗 Køyreavstand: ca. 10 min frå hytta (frå Sogndal Skisenter/Hodlekve via bomveg)]({"attribution":{"attributableIndex":"1299-0"}})
-- ^[⏱️ Tidsbruk: 0 om ein køyrer bomvegen, eller 1-2 timar tur/retur om ein går grusvegen langs Anestølsvatnet]({"attribution":{"attributableIndex":"1299-1"}})  
-- ^[🥾 Vanskeligheitsgrad: Lett]({"attribution":{"attributableIndex":"1299-2"}})  
-- ^[🎣 Fiskemoglegheit: Ja – i Anestølsvatnet langs vegen, også mogleg for å bade]({"attribution":{"attributableIndex":"1299-3"}})  
-- ^[💶 Pris: bomveg ca NOK 50 per bil]({"attribution":{"attributableIndex":"1299-4"}})  [oai_citation:1‡fjordnorway.com](https://www.fjordnorway.com/no/se-og-gjore/sykkeltur-til-anestolen?utm_source=chatgpt.com) [oai_citation:2‡visitnorway.no](https://www.visitnorway.no/listings/guida-st%C3%B8lsbes%C3%B8k-anest%C3%B8len-sogndal/245705/?utm_source=chatgpt.com) [oai_citation:3‡fjordnorway.com](https://www.fjordnorway.com/no/se-og-gjore/guida-stolsbesok-anestolen-sogndal?utm_source=chatgpt.com)  
-- ^[🔗 [Guiding og stølsbesøk](https://www.visitnorway.no/listings/guida-st%C3%B8lsbes%C3%B8k-anest%C3%B8len-sogndal/245705/)]({"attribution":{"attributableIndex":"1651-0"}})
-
+- 🚗 Køyreavstand: ca. 10 min frå hytta (frå Sogndal Skisenter/Hodlekve via bomveg)
+- ⏱️ Tidsbruk: 0 om ein køyrer bomvegen, eller 1-2 timar tur/retur om ein går grusvegen langs Anestølsvatnet
+- 🥾 Vanskeligheitsgrad: Lett
+- 🎣 Fiskemoglegheit: Ja – i Anestølsvatnet langs vegen, også mogleg for å bade
+- 💶 Pris: bomveg ca NOK 50 per bil
+- 🔗 https://www.fjordnorway.com/no/se-og-gjore/sykkeltur-til-anestolen
+- 🔗 https://www.visitnorway.no/listings/guida-st%C3%B8lsbes%C3%B8k-anest%C3%B8len-sogndal/245705/
+- 🔗 https://www.fjordnorway.com/no/se-og-gjore/guida-stolsbesok-anestolen-sogndal
+- 🔗 [Guiding og stølsbesøk](https://www.visitnorway.no/listings/guida-st%C3%B8lsbes%C3%B8k-anest%C3%B8len-sogndal/245705/)
 
 ---
 
