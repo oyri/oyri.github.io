@@ -30,7 +30,7 @@ Koyribu gir deg rom både til å slappe av og til å jobbe i rolege omgjevnadar 
 ---
 
 ## 🌲 Omgjevnad & Opplevingar
-- Fantastiske turområde rett utanfor døra
+- Fantastiske turområde rett utanfor døra, sjå [fjellturar](hikes.md)
 - Bading i nærliggjande vatn og fiskemoglegheiter
 - Stille og skjerma plassering – perfekt for avkopling
 
