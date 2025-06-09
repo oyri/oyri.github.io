@@ -8,7 +8,7 @@ alt_url: hikes_en
 
 # 🏔️ Fjellturar i nærområdet
 
-Hytta **Koyribu** ligg perfekt til for fjellturar i Sogndalsfjella og området kring Fjærland. Her finn du eit utval av våre favoritturar – frå luftige toppar med fjordutsikt til lettgåtte dalar.
+Hytta **Koyribu** ligg perfekt til for fjellturar i Sogndalsfjella og området kring Fjærland. Her finn du eit utval av våre favoritturar på sommarstid – frå luftige toppar med fjordutsikt til lettgåtte dalar.
 
 ---
 
