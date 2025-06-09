@@ -33,7 +33,7 @@ A fantastic trail if you're looking for great fjord and mountain views. The hike
 **About the hike**  
 A popular and airy summit with 360° views. Steep climb through the forest – avoid this hike in wet weather. Start from the parking lot at Nystølen.
 
-- 🚗 Drive time: 5–10 min from the cabin
+- 🚗 Drive time: 10 min from the cabin
 - ⏱️ Duration: 3–4 hours round trip
 - 🥾 Difficulty: Demanding
 - ⚠️ Note: Steep and slippery in wet conditions
@@ -49,7 +49,7 @@ A popular and airy summit with 360° views. Steep climb through the forest – a
 **About the hike**  
 Prefer a flatter, easier hike? Gunvordalen offers calm surroundings and lovely scenery. Start from the same parking lot as Togga.
 
-- 🚗 Drive time: 5–10 min from the cabin
+- 🚗 Drive time: 10 min from the cabin
 - ⏱️ Duration: 1–3 hours round trip (flexible length)
 - 🥾 Difficulty: Easy
 - 🔗 [Trail info – Peakbook](https://peakbook.org/no/peakbook-element/63255/Tursti+Gunvordalen.html)
@@ -64,7 +64,7 @@ Prefer a flatter, easier hike? Gunvordalen offers calm surroundings and lovely s
 A family-friendly hike up to the treeline, with several small lakes perfect for fishing. Usually about a 1-hour walk up.
 
 - 🚗 Drive time: 0 – hike directly from the cabin / Sogndal Skisenter (Hodlekve)
-- ⏱️ Duration: About 1 hour up
+- ⏱️ Duration: About 2 hours, can extend the hike with e.g. Reppanipa or Hellebrandseggi.
 - 🥾 Difficulty: Easy  
 - 🎣 Fishing: Yes – many small lakes with trout. Remember to buy a fishing permit. Can buy with Vipps #699351 30 NOK a day, free for children under 16 years old.
 - Map: https://www.norgeskart.no/#!?project=norgeskart&layers=1001&zoom=13&lat=6819263.65&lon=69324.80&sok=fagreggi&markerLat=6819267.220029058&markerLon=69071.47161072219&p=searchOptionsPanel
