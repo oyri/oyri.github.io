@@ -23,7 +23,7 @@ Koyribu gir deg rom både til å slappe av og til å jobbe i rolege omgjevnadar 
 <div style="display:flex; gap:1rem; flex-wrap:wrap;">
   <img src="img/hytta-sommar.jpeg" alt="Hytta på sommaren" style="max-width:100%;height:auto;">
   <img src="img/stove-20220704_174032308_iOS.jpeg" alt="Stove" style="max-width:100%;height:auto;">
-  <img src="img/terrasse.iagv" alt="Terrasse" style="max-width:100%;height:auto;">
+  <img src="img/terrasse.avif" alt="Terrasse" style="max-width:100%;height:auto;">
   <img src="img/mot-rindabotn-20220806_150411.jpg" alt="Natur" style="max-width:100%;height:auto;">
 </div>
 
