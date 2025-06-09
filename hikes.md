@@ -11,7 +11,7 @@ Hytta **Koyribu** ligg perfekt til for fjellturar i Sogndalsfjella og området k
 
 ## ⛰️ Skredfjellet – Fjord og fjell i Fjærland
 
-![Skredfjellet](https://images.visitnorway.com/original/246118.jpg)
+![Skredfjellet](img/skrefjellet.jpeg)
 
 **Om turen**  
 Ein fantastisk tur om du ønskjer utsikt over fjord og fjell. Turen startar ved Berge, rett før Fjærland. Utsikta frå toppen er storslått!
@@ -54,7 +54,7 @@ Om du heller vil ha ein lettare og flatare tur, byr Gunvordalen på roleg natur 
 ---
 ## 🎣 Fagereggi – Familietur med fiske i fjellvatn
 
-![Fagereggi](https://www.visitnorway.com/listings/hike-to-fagreggi/261752/)
+![Fagereggi](img/fagereggi-vatn-regn-jpeg)
 
 **Om turen**  
 ^[Ein enkel familietur som går roleg opp til tregrensa, med fleire små fjellvatn perfekt til fiske. Vanlegvis berre rundt 1 time å gå opp.]({"attribution":{"attributableIndex":"0-15"}})
@@ -86,7 +86,7 @@ Om du heller vil ha ein lettare og flatare tur, byr Gunvordalen på roleg natur 
 
 ## 🏞️ Molden – Klassikaren med fjordutsikt
 
-![Molden](https://ut.no/images/7a9fa20d-9b3f-47f6-9ce9-df5874e4f4fc?fit=crop&w=1600&q=80)
+![Molden](img/molden.jpeg)
 
 **Om turen**  
 Ein av dei mest populære turane i området. Spektakulær utsikt over Lustrafjorden. Start frå Krossen.
