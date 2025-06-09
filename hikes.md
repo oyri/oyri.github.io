@@ -14,7 +14,7 @@ Hytta **Koyribu** ligg perfekt til for fjellturar i Sogndalsfjella og området k
 
 ## ⛰️ Skredfjellet – Fjord og fjell i Fjærland
 
-<img src="img/skrefjellet.jpeg" alt="Skredfjellet" style="max-width:100px; width:100%; height:auto;">
+<img src="img/skrefjellet.jpeg" alt="Skredfjellet" style="max-width:500px; width:100%; height:auto;">
 
 
 **Om turen**  
