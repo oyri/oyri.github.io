@@ -28,10 +28,10 @@
 </head>
 <body>
    <nav>
-    <a href="index.html" class="{% if page.url == '/' or page.url == '/index' %}active{% endif %}">Heim</a>
-    <a href="hikes.html" class="{% if page.url contains 'hikes.html' %}active{% endif %}">Fjellturar</a>
-    <a href="english.html" class="{% if page.url contains 'english' %}active{% endif %}">🇬🇧 English</a>
-    <a href="hikes_en.html" class="{% if page.url contains 'hikes_en' %}active{% endif %}">🇬🇧 Hikes</a>
+    <a href="index.md" class="{% if page.url == '/' or page.url == '/index' %}active{% endif %}">(:norway:) Heim</a>
+    <a href="hikes.md" class="{% if page.url contains 'hikes.md' %}active{% endif %}">(:norway:) Fjellturar</a>
+    <a href="english.md" class="{% if page.url contains 'english' %}active{% endif %}">🇬🇧 English</a>
+    <a href="hikes_en.md" class="{% if page.url contains 'hikes_en' %}active{% endif %}">🇬🇧 Hikes</a>
   </nav>
 
   {% if page.alt_url %}
