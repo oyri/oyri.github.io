@@ -3,7 +3,7 @@ layout: default
 title: "Koyribu – Spacious Cabin for Rent"
 lang: en
 alt_lang: nn
-alt_url: index.md
+alt_url: index
 ---
 
 # Welcome to **Koyribu**
