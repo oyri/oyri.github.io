@@ -41,12 +41,12 @@
     {% if page.alt_url %}
       <div class="nav-links">
         {% if page.lang == 'nn' %}
-          <a href="index.md" class="{% if page.url == '/' or page.url == '/index' %}active{% endif %}">🇳🇴 Heim</a>
-          <a href="hikes.md" class="{% if page.url contains 'hikes.md' %}active{% endif %}">🇳🇴 Fjellturar</a>
+          <a href="index.md" class="{% if page.url == '/' or page.url == '/index' %}active{% endif %}">Om Koyribu</a>
+          <a href="hikes.md" class="{% if page.url contains 'hikes.md' %}active{% endif %}">Fjellturar</a>
         {% endif %}
         {% if page.lang == 'en' %}
-          <a href="english.md" class="{% if page.url contains 'english' %}active{% endif %}">🇬🇧 English</a>
-          <a href="hikes_en.md" class="{% if page.url contains 'hikes_en' %}active{% endif %}">🇬🇧 Hikes</a>
+          <a href="english.md" class="{% if page.url contains 'english' %}active{% endif %}">About Koyribu</a>
+          <a href="hikes_en.md" class="{% if page.url contains 'hikes_en' %}active{% endif %}">Hikes</a>
         {% endif %}
     </div>
       <div class="lang-switch">
