@@ -14,7 +14,7 @@ Hytta **Koyribu** ligg perfekt til for fjellturar i Sogndalsfjella og området k
 
 ## ⛰️ Skredfjellet – Fjord og fjell i Fjærland
 
-<img src="img/skrefjellet.jpeg" alt="Skredfjellet" style="max-width: 50px; height: auto;">
+<img src="img/skrefjellet.jpeg" alt="Skredfjellet" style="max-width:100px; width:100%; height:auto;">
 
 
 **Om turen**  
@@ -29,7 +29,7 @@ Ein fantastisk tur om du ønskjer utsikt over fjord og fjell. Turen startar ved 
 
 ## ⛰️ Togga – Luftig utsikt nært hytta
 
-<img src="img/togga.jpeg" alt="Togga" style="max-width: 50px; height: auto;">
+<img src="img/togga.jpeg" alt="Togga" style="max-width:100px; width:100%; height:auto;">
 
 **Om turen**  
 Ein luftig og populær topp med 360-graders utsikt. Bratt stigning gjennom skogen, så unngå turen i regnvêr. Start frå parkeringsplass ved Nystølen.
