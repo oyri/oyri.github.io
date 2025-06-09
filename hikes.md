@@ -56,7 +56,7 @@ Om du heller vil ha ein lettare og flatare tur, byr Gunvordalen på roleg natur 
 - 🔗 [Tursti i Gunvordalen – Peakbook](https://peakbook.org/no/peakbook-element/63255/Tursti+Gunvordalen.html)
 
 ---
-## 🎣 Fagereggi – Familietur med fiske i fjellvatn
+## 🎣 Fagreggi – Familietur med fiske i fjellvatn
 
 
 <img src="img/fagereggi-vatn-regn.jpeg" alt="Fagereggi" style="max-width:500px; width:100%; height:auto;">
@@ -67,7 +67,8 @@ Ein enkel familietur som går roleg opp til tregrensa, med fleire små fjellvatn
 - 🚗 Køyreavstand: 0, kan gå rett frå hytta / (frå Sogndal Skisenter / Hodlekve)
 - ⏱️ Tidsbruk: ca. 1 time opp – enkel tur
 - 🥾 Vanskelighetsgrad: Lett  
-- 🎣 Fiskemoglegheit: Ja – mange små vatn med aure. Hugs å kjøpet fiskekort: https://www.sogndalskisenter.no/fiske
+- 🎣 Fiskemoglegheit: Ja – mange små vatn med aure. Hugs å kjøpet fiskekort. Vipps #699351 (30kr for dagskort). Born under 16år fiskar gratis. NB: gjeld ikkje Fjærlandssetvatnet.
+- Kart: https://www.norgeskart.no/#!?project=norgeskart&layers=1001&zoom=13&lat=6819263.65&lon=69324.80&sok=fagreggi&markerLat=6819267.220029058&markerLon=69071.47161072219&p=searchOptionsPanel
 - 🔗 (https://www.visitnorway.no/listings/g%C3%A5tur-til-fagreggi/261753)
 
 ---
