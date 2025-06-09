@@ -56,7 +56,7 @@ Prefer a flatter, easier hike? Gunvordalen offers calm surroundings and lovely s
 
 ---
 
-## 🎣 Fagereggi – Family-Friendly Hike with Mountain Lake Fishing
+## 🎣 Fagreggi – Family-Friendly Hike with Mountain Lake Fishing
 
 <img src="img/fagereggi-vatn-regn.jpeg" alt="Fagereggi" style="max-width:500px; width:100%; height:auto;">
 
@@ -66,7 +66,8 @@ A family-friendly hike up to the treeline, with several small lakes perfect for 
 - 🚗 Drive time: 0 – hike directly from the cabin / Sogndal Skisenter (Hodlekve)
 - ⏱️ Duration: About 1 hour up
 - 🥾 Difficulty: Easy  
-- 🎣 Fishing: Yes – many small lakes with trout. Remember to buy a fishing permit: https://www.sogndalskisenter.no/fiske
+- 🎣 Fishing: Yes – many small lakes with trout. Remember to buy a fishing permit. Can buy with Vipps #699351 30 NOK a day, free for children under 16 years old.
+- Map: https://www.norgeskart.no/#!?project=norgeskart&layers=1001&zoom=13&lat=6819263.65&lon=69324.80&sok=fagreggi&markerLat=6819267.220029058&markerLon=69071.47161072219&p=searchOptionsPanel
 - 🔗 [Visit Norway link](https://www.visitnorway.no/listings/g%C3%A5tur-til-fagreggi/261753)
 
 ---
