@@ -57,7 +57,7 @@ Om du heller vil ha ein lettare og flatare tur, byr Gunvordalen på roleg natur 
 ---
 ## 🎣 Fagereggi – Familietur med fiske i fjellvatn
 
-![Fagereggi](img/fagereggi-vatn-regn-jpeg)
+![Fagereggi](img/fagereggi-vatn-regn.jpeg)
 
 **Om turen**  
 Ein enkel familietur som går roleg opp til tregrensa, med fleire små fjellvatn perfekt til fiske. Vanlegvis berre rundt 1 time å gå opp.
@@ -72,7 +72,7 @@ Ein enkel familietur som går roleg opp til tregrensa, med fleire små fjellvatn
 
 ## 🐐 Anestølen – Familievenleg stølstur med geiter og fiske
 
-![Anestølen](https://www.visitnorway.com/listings/guida-st%C3%B8lsbes%C3%B8k-anest%C3%B8len-sogndal/245705/)
+![Anestølen](img/anestolen.jpeg)
 
 **Om turen**  
 Den perfekte familieturen: roleg vandring langs dalen, møte med over 400–600 beitande geiter – og moglegheit for å fiske eller bade i Anestølsvatnet. 
