@@ -14,6 +14,11 @@
       text-decoration: none;
       color: #007acc;
     }
+    nav a.active {
+      font-weight: bold;
+      text-decoration: underline;
+      color: #000;
+    }
     nav {
       margin-bottom: 2rem;
       border-bottom: 1px solid #ccc;
@@ -22,12 +27,20 @@
   </style>
 </head>
 <body>
-  <nav>
-    <a href="index.html">Heim</a>
-    <a href="hikes.html">Fjellturar</a>
-    <a href="index_en.html">English</a>
-    <a href="hikes_en.html">English hikes</a>
+   <nav>
+    <a href="index.md" class="{% if page.url == '/' or page.url == '/index.html' %}active{% endif %}">Heim</a>
+    <a href="hikdes.md" class="{% if page.url contains 'turar' %}active{% endif %}">Fjellturar</a>
+    <a href="index_en.md" class="{% if page.url contains 'engelsk' %}active{% endif %}">🇬🇧 English</a>
   </nav>
+
+  {% if page.alt_url %}
+    <p style="font-size: 0.9rem; text-align: right;">
+      <a href="{{ page.alt_url }}">
+        {% if page.lang == 'nn' %}Switch to 🇬🇧 English{% endif %}
+        {% if page.lang == 'en' %}Bytt til 🇳🇴 Nynorsk{% endif %}
+      </a>
+    </p>
+  {% endif %}
 
   {{ content }}
 
