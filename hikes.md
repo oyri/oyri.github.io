@@ -65,7 +65,7 @@ Ein enkel familietur som går roleg opp til tregrensa, med fleire små fjellvatn
 - 🚗 Køyreavstand: 0, kan gå rett frå hytta / (frå Sogndal Skisenter / Hodlekve)
 - ⏱️ Tidsbruk: ca. 1 time opp – enkel tur
 - 🥾 Vanskelighetsgrad: Lett  
-- 🎣 Fiskemoglegheit: Ja – mange små vatn med aure. Fiskekort kr 30/dag (barn under 16 gratis)
+- 🎣 Fiskemoglegheit: Ja – mange små vatn med aure. Hugs å kjøpet fiskekort: https://www.sogndalskisenter.no/fiske
 - 🔗 (https://www.visitnorway.no/listings/g%C3%A5tur-til-fagreggi/261753)
 
 ---
@@ -83,8 +83,6 @@ Den perfekte familieturen: roleg vandring langs dalen, møte med over 400–600 
 - 🎣 Fiskemoglegheit: Ja – i Anestølsvatnet langs vegen, også mogleg for å bade
 - 💶 Pris: bomveg ca NOK 50 per bil
 - 🔗 https://www.fjordnorway.com/no/se-og-gjore/sykkeltur-til-anestolen
-- 🔗 https://www.visitnorway.no/listings/guida-st%C3%B8lsbes%C3%B8k-anest%C3%B8len-sogndal/245705/
-- 🔗 https://www.fjordnorway.com/no/se-og-gjore/guida-stolsbesok-anestolen-sogndal
 - 🔗 [Guiding og stølsbesøk](https://www.visitnorway.no/listings/guida-st%C3%B8lsbes%C3%B8k-anest%C3%B8len-sogndal/245705/)
 
 ---
@@ -108,6 +106,7 @@ Ein av dei mest populære turane i området. Spektakulær utsikt over Lustrafjor
 - Ta med drikke og ekstra klede
 - Bruk gode sko – enkelte parti kan vere steinete og bratte
 - Turbeskrivingar finst på **UT.no** og gode kart hos **Norgeskart.no**
+- Kjøp av fiskekort: https://www.sogndalskisenter.no/fiske
 
 ---
 
