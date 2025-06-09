@@ -3,7 +3,7 @@ layout: default
 title: "Fjellturar nær Koyribu"
 lang: nn
 alt_lang: en
-alt_url: hikes_en.md
+alt_url: hikes_en
 ---
 
 # 🏔️ Fjellturar i nærområdet
