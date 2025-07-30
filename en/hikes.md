@@ -3,7 +3,7 @@ layout: default
 title: "Hiking near Koyribu"
 lang: en
 alt_lang: nn
-alt_url: hikes
+alt_url: ../nn/hikes
 ---
 
 # 🏔️ Hikes Near Koyribu
@@ -14,7 +14,7 @@ The **Koyribu** cabin is perfectly located for mountain hikes in the Sogndal mou
 
 ## ⛰️ Skredfjellet – Fjord & Mountain Views in Fjærland
 
-<img src="img/skrefjellet.jpeg" alt="Skredfjellet" style="max-width:500px; width:100%; height:auto;">
+<img src="../img/skrefjellet.jpeg" alt="Skredfjellet" style="max-width:500px; width:100%; height:auto;">
 
 **About the hike**  
 A fantastic trail if you're looking for great fjord and mountain views. The hike starts at Berge, just before Fjærland. The view from the top is stunning!
@@ -28,7 +28,7 @@ A fantastic trail if you're looking for great fjord and mountain views. The hike
 
 ## ⛰️ Togga – Scenic Peak Near the Cabin
 
-<img src="img/togga.jpeg" alt="Togga" style="max-width:500px; width:100%; height:auto;">
+<img src="../img/togga.jpeg" alt="Togga" style="max-width:500px; width:100%; height:auto;">
 
 **About the hike**  
 A popular and airy summit with 360° views. Steep climb through the forest – avoid this hike in wet weather. Start from the parking lot at Nystølen.
@@ -44,7 +44,7 @@ A popular and airy summit with 360° views. Steep climb through the forest – a
 
 ## 🌿 Gunvordalen – Gentle Walk in a Peaceful Valley
 
-<img src="img/gunvordalen.jpeg" alt="Gunvordalen" style="max-width:500px; width:100%; height:auto;">
+<img src="../img/gunvordalen.jpeg" alt="Gunvordalen" style="max-width:500px; width:100%; height:auto;">
 
 **About the hike**  
 Prefer a flatter, easier hike? Gunvordalen offers calm surroundings and lovely scenery. Start from the same parking lot as Togga.
@@ -58,7 +58,7 @@ Prefer a flatter, easier hike? Gunvordalen offers calm surroundings and lovely s
 
 ## 🎣 Fagreggi – Family-Friendly Hike with Mountain Lake Fishing
 
-<img src="img/fagereggi-vatn-regn.jpeg" alt="Fagereggi" style="max-width:500px; width:100%; height:auto;">
+<img src="../img/fagereggi-vatn-regn.jpeg" alt="Fagereggi" style="max-width:500px; width:100%; height:auto;">
 
 **About the hike**  
 A family-friendly hike up to the treeline, with several small lakes perfect for fishing. Usually about a 1-hour walk up.
@@ -74,7 +74,7 @@ A family-friendly hike up to the treeline, with several small lakes perfect for 
 
 ## 🐐 Anestølen – Family Farm Visit with Goats and Fishing
 
-<img src="img/anestolen.jpeg" alt="Anestølen" style="max-width:500px; width:100%; height:auto;">
+<img src="../img/anestolen.jpeg" alt="Anestølen" style="max-width:500px; width:100%; height:auto;">
 
 **About the hike**  
 The perfect family outing: walk through the valley, meet 400–600 goats grazing freely, and enjoy fishing or swimming in the Anestøl Lake.
@@ -91,7 +91,7 @@ The perfect family outing: walk through the valley, meet 400–600 goats grazing
 
 ## 🏞️ Molden – Classic Fjord View Hike
 
-<img src="img/molden.jpeg" alt="Molden" style="max-width:500px; width:100%; height:auto;">
+<img src="../img/molden.jpeg" alt="Molden" style="max-width:500px; width:100%; height:auto;">
 
 **About the hike**  
 One of the region’s most popular hikes. Spectacular views over Lustrafjord. Start from Krossen.
