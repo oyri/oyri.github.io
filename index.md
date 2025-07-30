@@ -16,7 +16,7 @@ Ei stor og komfortabel hytte omgitt av vakker natur – perfekt for avkopling, h
 - **Type**: Romslig fjellhytte med open plan og moderne fasilitetar
 - **Soverom**: Fleire sengeplassar og 4 soverom
 - **Bad**: To bad med dusj og toalett
-- **Fasilitetar**: Wifi, vedomn, fullt kjøkken, kokekar, sengetøy og handkle
+- **Fasilitetar**: Wifi, fullt kjøkken, kokekar, sengetøy og handkle. Vi vil legge på sengklær for antall gjester bestilt for.
 
 Koyribu gir deg rom både til å slappe av og til å jobbe i rolege omgjevnadar – året rundt.
 
