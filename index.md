@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Koyribu"
+title: "Køyribu"
 lang: no
 ---
 
-# **Koyribu**
+# **Køyribu**
  <a href="nn/index">Norsk</a> 
 ---
  <a href="en/index">Engelsk</a>
