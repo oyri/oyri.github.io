@@ -9,7 +9,7 @@ alt_url: ../nn/activities
 # Activities
 
 ## Hikes
-Suggestions for hikes here <a href="hikes.md">Hikes</a>
+Suggestions for hikes here <a href="hikes">Hikes</a>
 
 ## Fishing
 See info in Dalalåven Cafe
