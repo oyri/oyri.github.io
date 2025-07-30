@@ -17,6 +17,10 @@ alt_url: ../nn/cabin.md
 
 ## Access Code for Front Door
 The code is sent via Airbnb. The keypad is next to the front door. Please lock the door when leaving.
+<img src="../img/info/door_keypad.png" alt="Keypad for front door"/>
+Open: Enter code + <img src="../img/info/door_open.png" alt="Keypad for front door"/>
+Lock: Press <img src="../img/info/door_locked.png" alt="Keypad for front door"/>
+
 
 ---
 
