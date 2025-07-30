@@ -3,7 +3,7 @@ layout: default
 title: Køyribu Cabin Information
 lang: en
 alt_lang: nn
-alt_url: cabin.md
+alt_url: ../nn/cabin.md
 ---
 
 # Welcome to Køyribu
