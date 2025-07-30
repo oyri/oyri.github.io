@@ -1,119 +1,139 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Welcome to Køyribu Cabin</title>
-  <style>
-    body { font-family: sans-serif; margin: 2em; background-color: #f8f9fa; color: #333; }
-    h1, h2 { color: #004b6b; }
-    .section { margin-bottom: 2em; }
-    ul, p { line-height: 1.6; }
-    code { background-color: #eee; padding: 2px 5px; border-radius: 3px; }
-    a { color: #0066cc; }
-  </style>
-</head>
-<body>
+---
+layout: default
+title: Køyribu Cabin Information
+---
 
-  <h1>Welcome to Køyribu</h1>
+# Welcome to Køyribu
 
-  <div class="section">
-    <h2>House Rules</h2>
-    <ul>
-      <li>Quiet between 23:00 and 07:00</li>
-      <li>No pets allowed</li>
-      <li>No smoking inside</li>
-    </ul>
-  </div>
+## House Rules
+- Quiet between 23:00 and 07:00  
+- No pets allowed  
+- No smoking inside  
 
-  <div class="section">
-    <h2>Access Code</h2>
-    <p>The door code is sent via Airbnb. The keypad is beside the front door. Always lock the door when you leave.</p>
-  </div>
+---
 
-  <div class="section">
-    <h2>WiFi</h2>
-    <p>Network: <code>koyribu-gjest</code><br>Password: <code style="hidden">koyribu2021</code></p>
-  </div>
+## Access Code for Front Door
+The code is sent via Airbnb. The keypad is next to the front door. Please lock the door when leaving.
 
-  <div class="section">
-    <h2>Lights</h2>
-    <p>Smart lighting with dimmable switches. If a switch doesn’t respond, press it again due to sync delay.</p>
-  </div>
+---
 
-  <div class="section">
-    <h2>Heating</h2>
-    <p>Floor heating is available throughout the cabin. Do not adjust the washroom control panel. Use black thermostats on the wall if needed.</p>
-  </div>
+## WiFi
+- **Network**: `koyribu-gjest`  
+- **Password**: See info bookelet inside cabin
 
-  <div class="section">
-    <h2>Drinking Water</h2>
-    <p>Tap water is usable for hygiene and cooking, but not ideal for drinking. Use the drinking water provided in the fridge and refill from the 20L cans outside.</p>
-  </div>
+---
 
-  <div class="section">
-    <h2>Kitchen & Appliances</h2>
-    <ul>
-      <li><strong>Oven:</strong> Press left power button, choose program, press "Start".</li>
-      <li><strong>Dishwasher:</strong> Turn on, select program, press "Start". Tablets under sink.</li>
-      <li><strong>Ventilator:</strong> Buttons for fan and light control.</li>
-      <li><strong>Cooktop:</strong> Touch control. Reset safety if triggered.</li>
-    </ul>
-  </div>
+## Lights
+The cabin has smart lighting controlled by dimmable switches.  
+Some switches require two presses due to control syncing across rooms.
 
-  <div class="section">
-    <h2>Freezer</h2>
-    <p>Located in the stairwell. Plug in if needed.</p>
-  </div>
+### Light Switch Types:
+- **Multiple Lights**:
+  - On: press `1`, Off: press `0`  
+  - Dimming: Hold `1` to dim up, `0` to dim down
+- **Single Light**:
+  - On/Off: press left power button  
+  - Dimming: Hold the "sun" button (dims opposite of previous)
 
-  <div class="section">
-    <h2>TV & Entertainment</h2>
-    <p>Strim, Netflix, HBO available. Log into your own accounts and remember to log out before leaving. Use Sonos app or Bluetooth speakers for audio.</p>
-  </div>
+---
 
-  <div class="section">
-    <h2>Sauna & Bathroom</h2>
-    <p>Turn on fan during showers. Sauna: Right knob = hours & delay, left knob = temperature (~75°C at red mark).</p>
-  </div>
+## Heating
+Floor heating is available in hallway, living room, kitchen, bathrooms (including upstairs).
 
-  <div class="section">
-    <h2>Trash & Recycling</h2>
-    <p>Trash containers are at Hodlekve ski center’s last parking lot. Sort paper/cardboard, glass/metal, and general waste. Bottle returns go to Red Cross bin.</p>
-  </div>
+- Do **not** adjust the washroom control panel.
+- Use black thermostats with display on walls to adjust heat.
+- If too cold or hot, contact the host.
 
-  <div class="section">
-    <h2>Second Floor & Games</h2>
-    <p>The coffee table opens to reveal board games.</p>
-  </div>
+---
 
-  <div class="section">
-    <h2>Electric Car Charging</h2>
-    <p>Chargers are located at Dalalåven Cafe/ski center (500m). Info: <a href="https://en.sogndalskisenter.no/aktuelt/elbil-lading-i-rindabotn" target="_blank">Charging Info</a></p>
-  </div>
+## Drinking Water
+Tap water is usable for cooking, brushing teeth, and cleaning.  
+For drinking, use the water can in the fridge. Refill it from the 20L containers behind the cabin.
 
-  <div class="section">
-    <h2>Departure Instructions</h2>
-    <ul>
-      <li>Run dishwasher if used</li>
-      <li>Place towels in bathroom</li>
-      <li>Remove and leave bed linen in laundry room</li>
-      <li>Turn off fan, close all windows, lock balcony and main doors</li>
-    </ul>
-  </div>
+---
 
-  <div class="section">
-    <h2>Need Help?</h2>
-    <p>Contact:</p>
-    <ul>
-      <li>Randi Øyri: +47 41518358</li>
-      <li>Espen Kørra: +47 92808669</li>
-      <li>Or send a message via Airbnb</li>
-    </ul>
-  </div>
+## Kitchen Guide
 
-  <footer>
-    <p>We hope you enjoy your stay at Køyribu! 🏡</p>
-  </footer>
+### Oven
+- Power: Leftmost button  
+- Select program → Press "Start"
 
-</body>
-</html>
+### Dishwasher
+- Power on → Select program (default ~3 hours) → Press "Start"  
+- Tablets are under the sink  
+- Open door when finished for faster drying  
+
+### Ventilator
+- Outer button = light  
+- Inner button = on/off  
+- Middle buttons = fan speed  
+
+### Cooktop
+- Use power button → Select burner → Use slider  
+- If safety activates, clean spills and press stove guard button above
+
+---
+
+## Freezer
+Located in the stairwell. Plug it in if you want to use it.
+
+---
+
+## TV & Entertainment
+- **Strim**, **Netflix**, **HBO** etc. installed  
+- Log in with your own accounts (remember to log out before leaving)  
+- Use **Sonos app** or Bluetooth speakers for audio  
+
+---
+
+## Bathroom
+- Turn on fan during showers (button near door)
+
+---
+
+## Sauna
+- Right switch = timer & delay  
+- Left switch = temperature (~75°C at red mark)
+
+---
+
+## Trash
+- Shared bins are at **Hodlekve ski center** (last parking lot)  
+- Sort:
+  - Paper/Cardboard  
+  - Glass/Metal  
+  - General waste  
+  - Deposit bottles: Red Cross bin  
+
+---
+
+## Upstairs Living Room
+- Coffee table opens in the middle — games inside 🎲
+
+---
+
+## Electric Car Charging
+Chargers are available at **Dalalåven Café/ski center** (~500 m walk).  
+More info: [sogndalskisenter.no → EV Charging](https://en.sogndalskisenter.no/aktuelt/elbil-lading-i-rindabotn)
+
+---
+
+## Departure Checklist
+- Start dishwasher if needed  
+- Put towels in bathroom  
+- Remove bed linens and leave them in laundry room  
+- Turn off bathroom fan  
+- Close all windows  
+- Lock balcony, laundry room (from inside), and main door  
+- Report any damage to the owners
+
+---
+
+## Contact (Problems or Questions?)
+- **Randi Øyri**: +47 41518358  
+- **Espen Kørra**: +47 92808669  
+- Or contact via Airbnb messages
+
+---
+
+**Enjoy your stay at our family cabin! 🌲🏡**
