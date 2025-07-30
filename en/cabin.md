@@ -131,7 +131,7 @@ Trash is collected in shared containers down at the Hodlekve ski center, at the 
 <img src="../img/info/trash.png" alt="Shared bins at Hodlekve ski center" style="max-width:400px; height:auto;"/>
 
 Trash containers are located at the pink square on the map below. The cabin is marked with a red marker.
-<img src="../img/info/trash_map.png" alt="Map to the Shared bins" style="max-width:400px; height:auto;"/>
+<img src="../img/info/trash_map.png" alt="Map to the Shared bins" style="max-width:550px; height:auto;"/>
 
 ---
 
