@@ -24,10 +24,10 @@ Koyribu offers you the space to unwind or work in quiet and inspiring natural su
 
 ## 📸 Gallery
 <div style="display:flex; gap:1rem; flex-wrap:wrap;">
-   <img src="img/hytta-sommar.jpeg" alt="The cabin in the summer" style="max-width:100%;height:auto;">
-  <img src="img/stove-20220704_174032308_iOS.jpeg" alt="Living Room" style="max-width:100%;height:auto;">
-  <img src="img/terrasse.avif" alt="Terrace" style="max-width:100%;height:auto;">
-  <img src="img/mot-rindabotn-20220806_150411.jpg" alt="Nature" style="max-width:100%;height:auto;">
+   <img src="../img/hytta-sommar.jpeg" alt="The cabin in the summer" style="max-width:100%;height:auto;">
+  <img src="../img/stove-20220704_174032308_iOS.jpeg" alt="Living Room" style="max-width:100%;height:auto;">
+  <img src="../img/terrasse.avif" alt="Terrace" style="max-width:100%;height:auto;">
+  <img src="../img/mot-rindabotn-20220806_150411.jpg" alt="Nature" style="max-width:100%;height:auto;">
 </div>
 
 ---
