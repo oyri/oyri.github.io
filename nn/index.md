@@ -3,7 +3,7 @@ layout: default
 title: "Koyribu – Stor hytte til leige"
 lang: nn
 alt_lang: en
-alt_url: ../en/english
+alt_url: ../en/index
 ---
 
 # Velkomen til **Koyribu**
