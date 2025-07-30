@@ -85,14 +85,14 @@ Wine/beer glasses are in the kitchen cabinet behind the bar stool closest to the
 - When the machine is running it will display a light on the floor
 - Open door when finished for faster drying  
 
-<img src="../img/info/dish_washer.png" alt="Dish washer" style="max-width:400px; height:auto;"/>
+<img src="../img/info/dish_washer.png" alt="Dish washer" style="max-width:500px; height:auto;"/>
 
 ### Ventilator
 - Outer button = light  
 - Inner button = on/off  
 - Middle buttons = fan speed  
 
-<img src="../img/info/kitchen_ventilator.png" alt="kitchen Ventilator" style="max-width:300px; height:auto;"/>
+<img src="../img/info/kitchen_ventilator.png" alt="kitchen Ventilator" style="max-width:250px; height:auto;"/>
 
 ### Cooktop  
 Use the power button to turn it on, select a burner, and use the slider to choose the level. If the stove safety feature is activated, you need to turn off the cooktop, wipe up any spills, and then press the stove guard on the wall above the cooktop.
