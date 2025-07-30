@@ -9,4 +9,4 @@ lang: no
 ---
  <a href="en/index">Engelsk</a>
 ---
-<img src="img/hytta" alt="Køyribu at  summer time"/>
+<img src="img/hytta-sommar.jpeg" alt="Køyribu at  summer time"/>
