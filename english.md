@@ -16,7 +16,7 @@ A spacious and comfortable cabin surrounded by beautiful nature – perfect for 
 - **Type**: Generous mountain cabin with open plan and modern facilities  
 - **Bedrooms**: 4 bedrooms with multiple sleeping spaces  
 - **Bathrooms**: Two bathrooms with showers and toilets  
-- **Amenities**: Wifi, wood-burning stove, fully equipped kitchen, cookware, bedding, and towels  
+- **Amenities**: Wifi, fully equipped kitchen, cookware, bedding, and towels. We will put on beddings for number of guests ordered for.
 
 Koyribu offers you the space to unwind or work in quiet and inspiring natural surroundings – all year round.
 
