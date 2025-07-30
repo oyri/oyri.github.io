@@ -3,7 +3,7 @@ layout: default
 title: "Fjellturar nær Koyribu"
 lang: nn
 alt_lang: en
-alt_url: hikes_en
+alt_url: ../en/hikes
 ---
 
 # 🏔️ Fjellturar i nærområdet
@@ -14,7 +14,7 @@ Hytta **Koyribu** ligg perfekt til for fjellturar i Sogndalsfjella og området k
 
 ## ⛰️ Skredfjellet – Fjord og fjell i Fjærland
 
-<img src="img/skrefjellet.jpeg" alt="Skredfjellet" style="max-width:500px; width:100%; height:auto;">
+<img src="../img/skrefjellet.jpeg" alt="Skredfjellet" style="max-width:500px; width:100%; height:auto;">
 
 
 **Om turen**  
@@ -29,7 +29,7 @@ Ein fantastisk tur om du ønskjer utsikt over fjord og fjell. Turen startar ved 
 
 ## ⛰️ Togga – Luftig utsikt nært hytta
 
-<img src="img/togga.jpeg" alt="Togga" style="max-width:500px; width:100%; height:auto;">
+<img src="../img/togga.jpeg" alt="Togga" style="max-width:500px; width:100%; height:auto;">
 
 **Om turen**  
 Ein luftig og populær topp med 360-graders utsikt. Bratt stigning gjennom skogen, så unngå turen i regnvêr. Start frå parkeringsplass ved Nystølen.
@@ -45,7 +45,7 @@ Ein luftig og populær topp med 360-graders utsikt. Bratt stigning gjennom skoge
 
 ## 🌿 Gunvordalen – Lett og idyllisk dal
 
-<img src="img/gunvordalen.jpeg" alt="Gunvordalen" style="max-width:500px; width:100%; height:auto;">
+<img src="../img/gunvordalen.jpeg" alt="Gunvordalen" style="max-width:500px; width:100%; height:auto;">
 
 **Om turen**  
 Om du heller vil ha ein lettare og flatare tur, byr Gunvordalen på roleg natur og fine omgjevnadar. Start frå same parkeringsplass som Togga.
@@ -59,7 +59,7 @@ Om du heller vil ha ein lettare og flatare tur, byr Gunvordalen på roleg natur 
 ## 🎣 Fagreggi – Familietur med fiske i fjellvatn
 
 
-<img src="img/fagereggi-vatn-regn.jpeg" alt="Fagereggi" style="max-width:500px; width:100%; height:auto;">
+<img src="../img/fagereggi-vatn-regn.jpeg" alt="Fagereggi" style="max-width:500px; width:100%; height:auto;">
 
 **Om turen**  
 Ein enkel familietur som går roleg opp til tregrensa, med fleire små fjellvatn perfekt til fiske. Vanlegvis berre rundt 1 time å gå opp.
@@ -75,7 +75,7 @@ Ein enkel familietur som går roleg opp til tregrensa, med fleire små fjellvatn
 
 ## 🐐 Anestølen – Familievenleg stølstur med geiter og fiske
 
-<img src="img/anestolen.jpeg" alt="Anestølen" style="max-width:500px; width:100%; height:auto;">
+<img src="../img/anestolen.jpeg" alt="Anestølen" style="max-width:500px; width:100%; height:auto;">
 
 **Om turen**  
 Den perfekte familieturen: roleg vandring langs dalen, møte med over 400–600 beitande geiter – og moglegheit for å fiske eller bade i Anestølsvatnet. 
@@ -93,7 +93,7 @@ Den perfekte familieturen: roleg vandring langs dalen, møte med over 400–600 
 ## 🏞️ Molden – Klassikaren med fjordutsikt
 
 
-<img src="img/molden.jpeg" alt="Molden" style="max-width:500px; width:100%; height:auto;">
+<img src="../img/molden.jpeg" alt="Molden" style="max-width:500px; width:100%; height:auto;">
 
 
 **Om turen**  
