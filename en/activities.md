@@ -9,7 +9,7 @@ alt_url: ../nn/activities
 # Activities
 
 ## Hikes
-Suggestions for hikes here <a href="hikes">Hikes</a>
+Suggestions in <a href="hikes">hikes page</a>.
 
 ## Fishing
 See info in Dalalåven Cafe for maps and buying fishing passes, required for adults (above 16) in all lakes.
