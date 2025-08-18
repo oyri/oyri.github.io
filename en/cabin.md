@@ -75,6 +75,8 @@ We have provided a 5L can in the refrigerator for drinking water that can be ref
 In the base cabinet, there are two visible drawers, but inside the top one is a hidden extra white drawer at the top.
 Wine/beer glasses are in the kitchen cabinet behind the bar stool closest to the hallway.
 
+There are wine and beer glasses behind the bar stool under the counter top.
+
 ### Oven
 - Power: Leftmost button  
 - Select program → Press "Start" (Program: Scroll up and down by turning the dial to the right)
