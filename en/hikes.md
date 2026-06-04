@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Hiking near Koyribu"
+title: "Hiking near Køyribu"
 lang: en
 alt_lang: nn
 alt_url: ../nn/hikes
 ---
 
-# 🏔️ Hikes Near Koyribu
+# 🏔️ Hikes Near Køyribu
 
-The **Koyribu** cabin is perfectly located for mountain hikes in the Sogndal mountains and the Fjærland area. Here you'll find a selection of our favorite summer hikes – from scenic peaks with fjord views to easy walks through peaceful valleys.
+The **Køyribu** cabin is perfectly located for mountain hikes in the Sogndal mountains and the Fjærland area. Here you'll find a selection of our favorite summer hikes – from scenic peaks with fjord views to easy walks through peaceful valleys.
 
 ---
 
@@ -112,5 +112,5 @@ One of the region’s most popular hikes. Spectacular views over Lustrafjord. St
 
 ---
 
-Happy hiking from all of us at **Koyribu**!  
+Happy hiking from all of us at **Køyribu**!  
 We're happy to offer local advice or even guided hikes if desired – we know the area well.

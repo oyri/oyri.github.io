@@ -8,7 +8,7 @@ alt_url: ../en/guest-info
 
 # Gjesteinformasjon
 
-Her finn du den praktiske informasjonen du kan trenge før og under opphaldet på Koyribu.
+Her finn du den praktiske informasjonen du kan trenge før og under opphaldet på Køyribu.
 
 <a class="eyebrow-link" href="cabin">Tilbake til hyttesida</a>
 

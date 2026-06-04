@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Fjellturar nær Koyribu"
+title: "Fjellturar nær Køyribu"
 lang: nn
 alt_lang: en
 alt_url: ../en/hikes
@@ -8,7 +8,7 @@ alt_url: ../en/hikes
 
 # 🏔️ Fjellturar i nærområdet
 
-Hytta **Koyribu** ligg perfekt til for fjellturar i Sogndalsfjella og området kring Fjærland. Her finn du eit utval av våre favoritturar på sommarstid – frå luftige toppar med fjordutsikt til lettgåtte dalar.
+Hytta **Køyribu** ligg perfekt til for fjellturar i Sogndalsfjella og området kring Fjærland. Her finn du eit utval av våre favoritturar på sommarstid – frå luftige toppar med fjordutsikt til lettgåtte dalar.
 
 ---
 
@@ -115,5 +115,5 @@ Ein av dei mest populære turane i området. Spektakulær utsikt over Lustrafjor
 
 ---
 
-God tur frå oss på **Koyribu**!
+God tur frå oss på **Køyribu**!
 Dersom ynskjeleg kan me også ta oss guiding på desse eller andre turar i Sogndalsdalen, me er godt kjent.

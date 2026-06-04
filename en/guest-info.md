@@ -8,7 +8,7 @@ alt_url: ../nn/guest-info
 
 # Guest Information
 
-This page collects the practical information you may need before and during your stay at Koyribu.
+This page collects the practical information you may need before and during your stay at Køyribu.
 
 <a class="eyebrow-link" href="cabin">Back to the cabin page</a>
 

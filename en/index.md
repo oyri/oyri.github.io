@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Koyribu – Spacious Cabin for Rent"
+title: "Køyribu – Spacious Cabin for Rent"
 lang: en
 alt_lang: nn
 alt_url: ../nn/index
 ---
 
-# Welcome to Koyribu
+# Welcome to Køyribu
 
-Koyribu is a spacious family cabin above Sogndal, surrounded by mountains, quiet summer landscapes, and easy access to hikes, swimming spots, and day trips. It is a place for slow mornings, shared meals, and long evenings after time outdoors.
+Køyribu is a spacious family cabin above Sogndal, surrounded by mountains, quiet summer landscapes, and easy access to hikes, swimming spots, and day trips. It is a place for slow mornings, shared meals, and long evenings after time outdoors.
 
 👉 [Check availability and book on Airbnb](https://www.airbnb.com/rooms/902164708584277005)
 
@@ -16,7 +16,7 @@ Koyribu is a spacious family cabin above Sogndal, surrounded by mountains, quiet
 
 ## Summer at the Cabin
 
-Koyribu works especially well as a summer base for families, couples, and small groups who want both comfort and nature close by.
+Køyribu works especially well as a summer base for families, couples, and small groups who want both comfort and nature close by.
 
 - Peaceful mountain setting above Sogndal
 - 4 bedrooms and 2 bathrooms
@@ -61,9 +61,9 @@ If you are planning your stay and need practical details, you can find them here
 
 ## About the Hosts
 
-Koyribu is our family cabin, and we want guests to feel both welcome and well prepared. We use the cabin ourselves outside the main summer rental period, which helps us keep it practical, personal, and cared for.
+Køyribu is our family cabin, and we want guests to feel both welcome and well prepared. We use the cabin ourselves outside the main summer rental period, which helps us keep it practical, personal, and cared for.
 
 ---
 
-© 2025 Koyribu koyribu.no  
+© 2026 Køyribu koyribu.no  
 Published via GitHub Pages

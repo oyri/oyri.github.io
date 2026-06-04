@@ -8,7 +8,7 @@ alt_url: ../nn/cabin
 
 # The Cabin
 
-Koyribu is a spacious mountain cabin above Sogndal, designed for calm days, long summer evenings, and easy access to some of the best nature experiences in the area.
+Køyribu is a spacious mountain cabin above Sogndal, designed for calm days, long summer evenings, and easy access to some of the best nature experiences in the area.
 
 [See practical guest information](guest-info)
 
@@ -28,7 +28,7 @@ The cabin works well for families, couples, and small groups who want a peaceful
 
 ## What the Cabin Feels Like
 
-Koyribu is more than a practical place to sleep. It is a family cabin with room to gather, cook, rest, and spend time together after a day outside. The setting is quiet and sheltered, with nature close by in every direction.
+Køyribu is more than a practical place to sleep. It is a family cabin with room to gather, cook, rest, and spend time together after a day outside. The setting is quiet and sheltered, with nature close by in every direction.
 
 The cabin is a good fit if you want:
 
@@ -58,12 +58,3 @@ If you are already booked and want practical details such as access, house rules
 [Go to Guest Information](guest-info)
 
 ---
-
-## Best Places to Add More Photos Later
-
-If you want to strengthen this page over time, the most valuable new photos would be:
-
-- one clear bedroom photo
-- one bathroom photo
-- one kitchen or dining area photo
-- one wide photo showing the outdoor setting around the cabin

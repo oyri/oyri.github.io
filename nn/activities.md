@@ -8,7 +8,7 @@ alt_url: ../en/activities
 
 # Sommarguide
 
-Sommaren rundt Koyribu handlar om kort veg til fjellturar, friskt vatn, rolege kveldar og enkle dagsturar. Her får du ei rask oversikt over aktivitetar som passar særleg godt under eit opphald på hytta.
+Sommaren rundt Køyribu handlar om kort veg til fjellturar, friskt vatn, rolege kveldar og enkle dagsturar. Her får du ei rask oversikt over aktivitetar som passar særleg godt under eit opphald på hytta.
 
 ---
 

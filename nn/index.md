@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Koyribu – Stor hytte til leige"
+title: "Køyribu – Stor hytte til leige"
 lang: nn
 alt_lang: en
 alt_url: ../en/index
 ---
 
-# Velkomen til Koyribu
+# Velkomen til Køyribu
 
-Koyribu er ei romsleg familiehytte over Sogndal, omgitt av fjell, rolege sommarlandskap og enkel tilgang til turar, badeplassar og dagsturar. Her er det lett å finne roen, vere saman og nyte lange kveldar etter ein dag ute.
+Køyribu er ei romsleg familiehytte over Sogndal, omgitt av fjell, rolege sommarlandskap og enkel tilgang til turar, badeplassar og dagsturar. Her er det lett å finne roen, vere saman og nyte lange kveldar etter ein dag ute.
 
 👉 [Sjekk tilgjenge og book på Airbnb](https://www.airbnb.no/rooms/902164708584277005)
 
@@ -16,7 +16,7 @@ Koyribu er ei romsleg familiehytte over Sogndal, omgitt av fjell, rolege sommarl
 
 ## Sommaren på hytta
 
-Koyribu passar spesielt godt som sommarbase for familiar, par og små grupper som ønskjer både komfort og natur tett på.
+Køyribu passar spesielt godt som sommarbase for familiar, par og små grupper som ønskjer både komfort og natur tett på.
 
 - Fredeleg fjellplassering over Sogndal
 - 4 soverom og 2 bad
@@ -61,9 +61,9 @@ Dersom du planlegg opphaldet og treng praktiske detaljar, finn du det her:
 
 ## Om vertskapet
 
-Koyribu er familiehytta vår, og vi ønskjer at gjestene skal kjenne seg både velkomne og godt førebudde. Utanfor den viktigaste sommarutleigeperioden brukar vi hytta mykje sjølve, noko som gjer at ho held seg personleg, praktisk og godt teken vare på.
+Køyribu er familiehytta vår, og vi ønskjer at gjestene skal kjenne seg både velkomne og godt førebudde. Utanfor den viktigaste sommarutleigeperioden brukar vi hytta mykje sjølve, noko som gjer at ho held seg personleg, praktisk og godt teken vare på.
 
 ---
 
-© 2025 Koyribu koyribu.no  
+© 2026 Køyribu koyribu.no  
 Publisert via GitHub Pages

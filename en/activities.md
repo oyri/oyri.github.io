@@ -8,7 +8,7 @@ alt_url: ../nn/activities
 
 # Summer Guide
 
-Summer around Koyribu is all about easy access to mountain walks, cool water, quiet evenings, and flexible day trips. This page gives you a quick overview of activities that work especially well during a stay at the cabin.
+Summer around Køyribu is all about easy access to mountain walks, cool water, quiet evenings, and flexible day trips. This page gives you a quick overview of activities that work especially well during a stay at the cabin.
 
 ---
 

@@ -8,7 +8,7 @@ alt_url: ../en/cabin
 
 # Hytta
 
-Koyribu er ei romsleg fjellhytte over Sogndal, laga for rolige dagar, lange sommarkveldar og enkel tilgang til nokre av dei finaste naturopplevingane i området.
+Køyribu er ei romsleg fjellhytte over Sogndal, laga for rolige dagar, lange sommarkveldar og enkel tilgang til nokre av dei finaste naturopplevingane i området.
 
 [Sjå praktisk gjesteinformasjon](guest-info)
 
@@ -28,7 +28,7 @@ Hytta passar godt for familiar, par og små grupper som ønskjer ein fredeleg st
 
 ## Slik kjennest hytta
 
-Koyribu er meir enn ein praktisk stad å sove. Det er ei familiehytte med plass til å samlast, lage mat, kvile og vere saman etter ein dag ute. Plasseringa er roleg og skjerma, med natur tett på i alle retningar.
+Køyribu er meir enn ein praktisk stad å sove. Det er ei familiehytte med plass til å samlast, lage mat, kvile og vere saman etter ein dag ute. Plasseringa er roleg og skjerma, med natur tett på i alle retningar.
 
 Hytta passar godt om du ønskjer:
 
@@ -58,12 +58,3 @@ Dersom du allereie har bestilt og vil sjå praktiske detaljar som tilgang, husre
 [Gå til Gjesteinfo](guest-info)
 
 ---
-
-## Bilete som vil løfte sida seinare
-
-Når du vil styrkje denne sida vidare, vil desse bileta gi mest verdi:
-
-- eitt tydeleg bilete av eit soverom
-- eitt bilete av eit bad
-- eitt bilete av kjøkken eller spiseplass
-- eitt breitt bilete som viser uteområdet rundt hytta
