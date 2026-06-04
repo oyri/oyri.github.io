@@ -6,48 +6,62 @@ alt_lang: en
 alt_url: ../en/index
 ---
 
-# Velkomen til **Koyribu**
+# Velkomen til Koyribu
 
-Ei stor og komfortabel hytte omgitt av vakker natur – perfekt for avkopling, hytteturar med familien eller fokusert arbeid i fred og ro.
+Koyribu er ei romsleg familiehytte over Sogndal, omgitt av fjell, rolege sommarlandskap og enkel tilgang til turar, badeplassar og dagsturar. Her er det lett å finne roen, vere saman og nyte lange kveldar etter ein dag ute.
 
----
-
-## 🏡 Om Hytta
-- **Type**: Romslig fjellhytte med open plan og moderne fasilitetar
-- **Soverom**: Fleire sengeplassar og 4 soverom
-- **Bad**: To bad med dusj og toalett
-- **Fasilitetar**: Wifi, fullt kjøkken, kokekar, sengetøy og handkle. Vi vil legge på sengklær for antall gjester bestilt for.
-
-Koyribu gir deg rom både til å slappe av og til å jobbe i rolege omgjevnadar – året rundt.
+👉 [Sjekk tilgjenge og book på Airbnb](https://www.airbnb.no/rooms/902164708584277005)
 
 ---
 
-## 📸 Galleri
+## Sommaren på hytta
+
+Koyribu passar spesielt godt som sommarbase for familiar, par og små grupper som ønskjer både komfort og natur tett på.
+
+- Fredeleg fjellplassering over Sogndal
+- 4 soverom og 2 bad
+- Fullt utstyrt kjøkken, wifi, sengetøy og handkle
+- Kort veg til fjellturar, fiske og bading
+
+Vil du sjå meir om sjølve hytta, finn du det på sida [Hytta](cabin).
+
+---
+
+## Meir enn berre ein stad å sove
+
+Hytta er laga for gode dagar saman. Her er det plass til å lage mat, kvile, jobbe i fred og kome tilbake frå tur til ein lun og komfortabel base. Området kjennest skjerma og roleg, samstundes som det gir rask tilgang til nokre av dei finaste sommaropplevingane i regionen.
+
 <div style="display:flex; gap:1rem; flex-wrap:wrap;">
-  <img src="../img/hytta-sommar.jpeg" alt="Hytta på sommaren" style="max-width:100%;height:auto;">
-  <img src="../img/stove-20220704_174032308_iOS.jpeg" alt="Stove" style="max-width:100%;height:auto;">
-  <img src="../img/terrasse.avif" alt="Terrasse" style="max-width:100%;height:auto;">
-  <img src="../img/mot-rindabotn-20220806_150411.jpg" alt="Natur" style="max-width:100%;height:auto;">
+  <img src="../img/hytta-sommar.jpeg" alt="Hytta om sommaren" style="max-width:100%;height:auto;">
+  <img src="../img/stove-20220704_174032308_iOS.jpeg" alt="Stoveområdet inne i hytta" style="max-width:100%;height:auto;">
+  <img src="../img/terrasse.avif" alt="Terrassen utanfor hytta" style="max-width:100%;height:auto;">
 </div>
 
 ---
 
-## 🌲 Omgjevnad & Opplevingar
-- Fantastiske turområde rett utanfor døra, sjå [fjellturar](hikes.md)
-- Bading i nærliggjande vatn og fiskemoglegheiter
-- Stille og skjerma plassering – perfekt for avkopling
+## Kva kan du gjere her?
+
+- Gå rett ut i nærliggande fjellterreng
+- Nyte varme dagar ved vatn, elv eller fjord
+- Fiske i fjellvatn rundt Sogndal og Hodlekve
+- Bruke hytta som base for dagsturar i Sogndals- og Fjærlandsområdet
+
+Start med [Fjellturar](hikes). Fleire aktivitetstips kjem etter kvart.
 
 ---
 
-## 📅 Tilgjengelege datoar
- 👉 [Sjekk tilgjengeligheit og book på Airbnb](https://www.airbnb.no/rooms/902164708584277005?check_in=2025-07-03&check_out=2025-07-06&guests=1&adults=1)
-**Gjester:** Passar for par, familiar eller små grupper  
+## Allereie bestilt?
+
+Dersom du planlegg opphaldet og treng praktiske detaljar, finn du det her:
+
+- [Gjesteinfo](guest-info) for tilgang, husreglar, kjøkkeninformasjon og avreise
+- [Hytta](cabin) for ei tydelegare oversikt over rom, stemning og fasilitetar
 
 ---
 
-## 💬 Om Verten
-Me ønskjer å tilby ei lun og romsleg hytteoppleving i naturlege omgjevnader. Perfekt for kvardagsflukt eller lengre opphald. På vinteren nyttar me i stor grad hytta sjølve sidan me er ein aktiv familie på ski og topptur.
+## Om vertskapet
 
+Koyribu er familiehytta vår, og vi ønskjer at gjestene skal kjenne seg både velkomne og godt førebudde. Utanfor den viktigaste sommarutleigeperioden brukar vi hytta mykje sjølve, noko som gjer at ho held seg personleg, praktisk og godt teken vare på.
 
 ---
 

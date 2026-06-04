@@ -1,42 +1,90 @@
 ---
 layout: default
-title: "Activities"
+title: "Summer Guide"
 lang: en
 alt_lang: nn
 alt_url: ../nn/activities
 ---
 
-# Activities
+# Summer Guide
 
-## Hikes
-Suggestions in <a href="hikes">hikes page</a>.
+Summer around Koyribu is all about easy access to mountain walks, cool water, quiet evenings, and flexible day trips. This page gives you a quick overview of activities that work especially well during a stay at the cabin.
+
+---
+
+## Start with the Mountains
+
+If hiking is your main reason for visiting, go straight to our [Hikes](hikes) page for route ideas near the cabin, from short family walks to bigger summit trips.
+
+The best options nearby include:
+
+- easy walks and fishing around Fagreggi
+- family-friendly outings to Anestolen
+- scenic summit hikes such as Togga and Molden
+
+---
 
 ## Fishing
-See info in Dalalåven Cafe for maps and buying fishing passes, required for adults (above 16) in all lakes.
 
-Fishing in lakes in Sogndalsdalen for trout:
-- Dalavatnet og Anestølsvatnet: large lakes available by car close to Fjærlandsvegen/Dalavegen.
-- Fagreggivatn: 1 hour walk from Dalalåven, many lakes next to each others, also see info under hikes.
+Fishing is a good fit for slow summer days, especially if you want an activity that works for both adults and children.
 
-Fishing in the fjords (lyre, cod, mackerel):
-- From Sogndal town (fjord sti/fjord walk), possible to get lyre
-- Fjærlandsfjorden might be macekrel if the session is right, more fish here then in Sogndalsfjord
-- The closer to the occean the more fish in the Sognefjord
-- Salmon in rivers - special permits in special periods (very restricted and expensive)
+For mountain lake trout fishing:
 
-## Swimming/bathing
-- Sogndal: Sjøkanten in Sogndal or 10 min drive to Eide from Sogndal (map: https://maps.app.goo.gl/q7osVcRhECuPyjhU6)
-- Solvorn: 20min drive from Sogndal (map: https://maps.app.goo.gl/aFqwrRA4e3ZLyj1b7)
-- Or very fresh in the river above Hodlekve ski center
+- Dalavatnet and Anestolsvatnet are larger lakes that are easy to reach by car
+- Fagreggivatn is a good option if you want to combine a short walk with several smaller lakes
+- Maps and local advice are available at Dalalaven Cafe
 
-## Dalalåven
-- Cafe
-- Frisbee golf
-- Pump track for bikes
-- Maps for hikes/fishing
+Fishing permits are required for adults in the mountain lakes. Children under 16 usually fish for free. See local information at Dalalaven or Sogndal Skisenter.
 
-## Other activities
-Activites to do in Sogndal area: https://en.sognefjord.no/fjord-villages/sogndal/activities-attractions/
+For fjord fishing:
 
-## Climbing/mounteering/paragliding
-Reach out to us for information/tips, Espen is expirenced in these activites.
+- around Sogndal town, it is sometimes possible to catch lyre from shore
+- Fjærlandsfjorden can be a good option when mackerel are in season
+- in general, fishing improves the closer you get to the outer parts of the fjord system
+
+Salmon fishing in rivers is much more restricted and usually requires special permits.
+
+---
+
+## Swimming and Fresh Water Stops
+
+On warm summer days, there are several good places to swim or cool down.
+
+- Sjøkanten in Sogndal is a simple option if you are already in town
+- Eide, around 10 minutes from Sogndal, is another popular swimming spot
+- Solvorn is worth the drive if you want a fjord-side stop in a beautiful setting
+- the river above Hodlekve ski center is very cold, but refreshing on hot days
+
+Map links:
+
+- [Eide bathing area](https://maps.app.goo.gl/q7osVcRhECuPyjhU6)
+- [Solvorn bathing area](https://maps.app.goo.gl/aFqwrRA4e3ZLyj1b7)
+
+---
+
+## Dalalaven and the Hodlekve Area
+
+Dalalaven is a useful stop both for practical information and for easy summer activities close to the cabin.
+
+You can find:
+
+- cafe and meeting point
+- local maps for hiking and fishing
+- frisbee golf
+- pump track for bikes
+
+This area also works well if you want a short outing without committing to a full mountain day.
+
+---
+
+## More Local Ideas
+
+If you want more ideas for day trips and attractions in the wider Sogndal area, this overview is a good place to continue:
+
+[Activities and attractions in Sogndal](https://en.sognefjord.no/fjord-villages/sogndal/activities-attractions/)
+
+---
+
+## Climbing, Mountaineering, and Paragliding
+
+If you are interested in more advanced outdoor activities, feel free to ask us. We are happy to share local tips, and Espen knows the area well for climbing, mountaineering, and paragliding.

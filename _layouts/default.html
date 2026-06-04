@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="nn">
+<html lang="{{ page.lang | default: 'en' }}">
 <head>
   <meta charset="UTF-8">
   <title>{{ page.title }}</title>
@@ -8,6 +8,9 @@
         font-family: sans-serif;
         margin: 2rem;
         max-width: 800px;
+        background: #ffffff;
+        color: #1f2933;
+        line-height: 1.6;
       }
       nav {
         display: flex;
@@ -41,12 +44,16 @@
     {% if page.alt_url %}
       <div class="nav-links">
         {% if page.lang == 'nn' %}
-          <a href="index" class="{% if page.url == '/' or page.url == '/index' %}active{% endif %}">Om Køyribu</a>
+          <a href="index" class="{% if page.url == '/' or page.url contains '/index' %}active{% endif %}">Heim</a>
+          <a href="cabin" class="{% if page.url contains 'cabin' %}active{% endif %}">Hytta</a>
+          <a href="guest-info" class="{% if page.url contains 'guest-info' %}active{% endif %}">Gjesteinfo</a>
+          <a href="activities" class="{% if page.url contains 'activities' %}active{% endif %}">Aktivitetar</a>
           <a href="hikes" class="{% if page.url contains 'hikes' %}active{% endif %}">Fjellturar</a>
         {% endif %}
         {% if page.lang == 'en' %}
-          <a href="index" class="{% if page.url == '/' or page.url contains 'index' %}active{% endif %}">About Køyribu</a>
-          <a href="cabin" class="{% if page.url contains 'cabin' %}active{% endif %}">Info</a>
+          <a href="index" class="{% if page.url == '/' or page.url contains 'index' %}active{% endif %}">Home</a>
+          <a href="cabin" class="{% if page.url contains 'cabin' %}active{% endif %}">Cabin</a>
+          <a href="guest-info" class="{% if page.url contains 'guest-info' %}active{% endif %}">Guest Info</a>
           <a href="activities" class="{% if page.url contains 'activities' %}active{% endif %}">Activities</a>
           <a href="hikes" class="{% if page.url contains 'hikes' %}active{% endif %}">Hikes</a>
         {% endif %}

@@ -6,47 +6,62 @@ alt_lang: nn
 alt_url: ../nn/index
 ---
 
-# Welcome to **Koyribu**
+# Welcome to Koyribu
 
-A spacious and comfortable cabin surrounded by beautiful nature – perfect for relaxation, family getaways, or focused work in peaceful surroundings.
+Koyribu is a spacious family cabin above Sogndal, surrounded by mountains, quiet summer landscapes, and easy access to hikes, swimming spots, and day trips. It is a place for slow mornings, shared meals, and long evenings after time outdoors.
 
----
-
-## 🏡 About the Cabin
-- **Type**: Generous mountain cabin with open plan and modern facilities  
-- **Bedrooms**: 4 bedrooms with multiple sleeping spaces  
-- **Bathrooms**: Two bathrooms with showers and toilets  
-- **Amenities**: Wifi, fully equipped kitchen, cookware, bedding, and towels. We will put on beddings for number of guests ordered for.
-
-Koyribu offers you the space to unwind or work in quiet and inspiring natural surroundings – all year round.
+👉 [Check availability and book on Airbnb](https://www.airbnb.com/rooms/902164708584277005)
 
 ---
 
-## 📸 Gallery
+## Summer at the Cabin
+
+Koyribu works especially well as a summer base for families, couples, and small groups who want both comfort and nature close by.
+
+- Peaceful mountain setting above Sogndal
+- 4 bedrooms and 2 bathrooms
+- Fully equipped kitchen, WiFi, bedding, and towels
+- Short distance to hiking, fishing, and swimming
+
+If you want more details about the cabin itself, see [The Cabin](cabin).
+
+---
+
+## A Place to Stay, Not Just Sleep
+
+The cabin is designed for easy time together. There is space to cook, rest, work quietly, and come back from a hike to a comfortable indoor base. The area feels sheltered and calm, while still giving quick access to some of the best summer experiences in the region.
+
 <div style="display:flex; gap:1rem; flex-wrap:wrap;">
-   <img src="../img/hytta-sommar.jpeg" alt="The cabin in the summer" style="max-width:100%;height:auto;">
-  <img src="../img/stove-20220704_174032308_iOS.jpeg" alt="Living Room" style="max-width:100%;height:auto;">
-  <img src="../img/terrasse.avif" alt="Terrace" style="max-width:100%;height:auto;">
-  <img src="../img/mot-rindabotn-20220806_150411.jpg" alt="Nature" style="max-width:100%;height:auto;">
+  <img src="../img/hytta-sommar.jpeg" alt="The cabin in summer" style="max-width:100%;height:auto;">
+  <img src="../img/stove-20220704_174032308_iOS.jpeg" alt="Living area inside the cabin" style="max-width:100%;height:auto;">
+  <img src="../img/terrasse.avif" alt="Terrace outside the cabin" style="max-width:100%;height:auto;">
 </div>
 
 ---
 
-## 🌲 Surroundings & Activities
-- Amazing hiking trails just outside the door  
-- Swimming and fishing in nearby lakes  
-- Quiet, secluded location – ideal for unwinding  
+## What You Can Do Here
+
+- Walk straight into nearby mountain terrain
+- Spend warm days by lakes, rivers, or the fjord
+- Fish in mountain lakes around Sogndal and Hodlekve
+- Use the cabin as a base for day trips in the Sogndal and Fjaerland area
+
+Start with [Activities](activities) or go straight to [Hikes](hikes).
 
 ---
 
-## 📅 Availability
- 👉 [Check availability and book on Airbnb](https://www.airbnb.com/rooms/902164708584277005)  
-**Guests**: Suitable for couples, families, or small groups  
+## Already Booked?
+
+If you are planning your stay and need practical details, you can find them here:
+
+- [Guest Info](guest-info) for access, house rules, kitchen information, and departure steps
+- [The Cabin](cabin) for a clearer overview of the rooms, atmosphere, and facilities
 
 ---
 
-## 💬 About the Hosts
-We want to offer you a warm and spacious cabin experience in beautiful nature. Koyribu is perfect for a quiet break or longer stays. During winter, we often use the cabin ourselves as an active family who enjoys skiing and alpine adventures.
+## About the Hosts
+
+Koyribu is our family cabin, and we want guests to feel both welcome and well prepared. We use the cabin ourselves outside the main summer rental period, which helps us keep it practical, personal, and cared for.
 
 ---
 
