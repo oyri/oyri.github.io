@@ -2,45 +2,404 @@
 <html lang="{{ page.lang | default: 'en' }}">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title }}</title>
   <style>
-      body {
-        font-family: sans-serif;
-        margin: 2rem;
-        max-width: 800px;
-        background: #ffffff;
-        color: #1f2933;
-        line-height: 1.6;
+      :root {
+        --bg: #f5f4ef;
+        --bg-accent: #dde9eb;
+        --surface: rgba(255, 255, 255, 0.88);
+        --surface-strong: #ffffff;
+        --text: #1f2933;
+        --text-soft: #50606f;
+        --border: rgba(56, 73, 89, 0.18);
+        --border-strong: rgba(56, 73, 89, 0.3);
+        --link: #0f5f73;
+        --link-hover: #0a4857;
+        --accent: #18606b;
+        --accent-strong: #124952;
+        --focus: #8f3b1b;
+        --shadow: 0 16px 40px rgba(18, 39, 54, 0.08);
+        --radius-large: 1.5rem;
+        --radius-medium: 1rem;
+        --radius-small: 0.6rem;
       }
-      nav {
+
+      * {
+        box-sizing: border-box;
+      }
+
+      html {
+        background:
+          radial-gradient(circle at top left, rgba(177, 204, 208, 0.5), transparent 34%),
+          linear-gradient(180deg, #f8f7f2 0%, #f1efe8 100%);
+      }
+
+      body {
+        margin: 0;
+        min-height: 100vh;
+        color: var(--text);
+        font-family: "Avenir Next", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+        line-height: 1.6;
+        background: transparent;
+      }
+
+      .skip-link {
+        position: absolute;
+        left: 1rem;
+        top: -4rem;
+        z-index: 20;
+        padding: 0.75rem 1rem;
+        border-radius: var(--radius-small);
+        background: var(--accent);
+        color: #ffffff;
+        text-decoration: none;
+        transition: top 0.2s ease;
+      }
+
+      .skip-link:focus {
+        top: 1rem;
+      }
+
+      .site-header {
+        width: min(70rem, calc(100% - 2rem));
+        margin: 1rem auto 0;
+      }
+
+      .site-nav {
         display: flex;
         justify-content: space-between;
         align-items: center;
-        margin-bottom: 2rem;
-        border-bottom: 1px solid #ccc;
-        padding-bottom: 0.5rem;
+        gap: 1rem;
+        padding: 0.9rem 1.1rem;
+        border: 1px solid var(--border);
+        border-radius: var(--radius-large);
+        background: rgba(255, 255, 255, 0.74);
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(12px);
+      }
+
+      .nav-links {
+        display: flex;
         flex-wrap: wrap;
+        gap: 0.45rem;
       }
+
       .nav-links a {
-        margin-right: 1rem;
+        padding: 0.55rem 0.85rem;
+        border-radius: 999px;
+        color: var(--link);
+        font-size: 0.96rem;
+        font-weight: 600;
         text-decoration: none;
-        color: #007acc;
+        transition: background-color 0.18s ease, color 0.18s ease, transform 0.18s ease;
       }
+
+      .nav-links a:hover {
+        background: rgba(15, 95, 115, 0.09);
+        color: var(--link-hover);
+      }
+
       .nav-links a.active {
-        font-weight: bold;
-        text-decoration: underline;
-        color: #000;
+        background: rgba(15, 95, 115, 0.14);
+        color: var(--accent-strong);
       }
+
       .lang-switch a {
-        font-size: 0.9rem;
-        color: #444;
+        display: inline-flex;
+        align-items: center;
+        min-height: 2.5rem;
+        padding: 0.45rem 0.75rem;
+        border-radius: 999px;
+        color: var(--text-soft);
+        font-size: 0.92rem;
+        font-weight: 600;
         text-decoration: none;
+        transition: background-color 0.18s ease, color 0.18s ease;
+      }
+
+      .lang-switch a:hover {
+        background: rgba(31, 41, 51, 0.06);
+        color: var(--text);
+      }
+
+      main {
+        width: min(70rem, calc(100% - 2rem));
+        margin: 1rem auto 2rem;
+      }
+
+      .page-card {
+        padding: clamp(1.4rem, 2vw, 2.4rem);
+        border: 1px solid var(--border);
+        border-radius: clamp(1rem, 2vw, 1.8rem);
+        background: var(--surface);
+        box-shadow: var(--shadow);
+        backdrop-filter: blur(8px);
+      }
+
+      .page-card > :first-child {
+        margin-top: 0;
+      }
+
+      h1, h2, h3 {
+        margin: 0 0 0.75rem;
+        line-height: 1.14;
+        letter-spacing: -0.02em;
+        font-family: "Iowan Old Style", "Palatino Linotype", "Book Antiqua", Georgia, serif;
+        color: #162532;
+      }
+
+      h1 {
+        font-size: clamp(2.5rem, 7vw, 4.35rem);
+        max-width: 11ch;
+      }
+
+      h2 {
+        margin-top: 2.4rem;
+        font-size: clamp(1.65rem, 3vw, 2.15rem);
+      }
+
+      h3 {
+        margin-top: 1.6rem;
+        font-size: 1.2rem;
+      }
+
+      p, li {
+        max-width: 67ch;
+        font-size: 1.03rem;
+      }
+
+      .page-card > p:first-of-type {
+        margin-top: 0;
+        color: var(--text-soft);
+        font-size: clamp(1.13rem, 2vw, 1.36rem);
+        line-height: 1.72;
+        max-width: 58ch;
+      }
+
+      a {
+        color: var(--link);
+        text-decoration-thickness: 0.08em;
+        text-underline-offset: 0.18em;
+      }
+
+      a:hover {
+        color: var(--link-hover);
+      }
+
+      a:focus-visible {
+        outline: 3px solid var(--focus);
+        outline-offset: 3px;
+        border-radius: 0.2rem;
+      }
+
+      a[href*="airbnb"] {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.45rem;
+        margin: 0.45rem 0 0.75rem;
+        padding: 0.9rem 1.2rem;
+        border-radius: 999px;
+        background: linear-gradient(135deg, var(--accent) 0%, #2f7d87 100%);
+        color: #ffffff;
+        font-weight: 700;
+        text-decoration: none;
+        box-shadow: 0 12px 24px rgba(24, 96, 107, 0.18);
+      }
+
+      a[href*="airbnb"]:hover {
+        color: #ffffff;
+        background: linear-gradient(135deg, var(--accent-strong) 0%, #226671 100%);
+      }
+
+      strong {
+        color: #162532;
+      }
+
+      ul {
+        padding-left: 1.3rem;
+      }
+
+      li + li {
+        margin-top: 0.3rem;
+      }
+
+      hr {
+        margin: 2rem 0;
+        border: 0;
+        height: 1px;
+        background: linear-gradient(90deg, rgba(22, 37, 50, 0.18), rgba(22, 37, 50, 0.04));
+      }
+
+      img {
+        display: block;
+        width: 100%;
+        height: auto;
+        border: 1px solid var(--border);
+        border-radius: var(--radius-medium);
+        box-shadow: 0 12px 30px rgba(18, 39, 54, 0.12);
+      }
+
+      .page-card div[style*="display:flex"] {
+        display: grid !important;
+        grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+        gap: 1rem !important;
+        margin: 1.5rem 0 2rem;
+      }
+
+      .page-card div[style*="display:flex"] img {
+        aspect-ratio: 4 / 3;
+        object-fit: cover;
+      }
+
+      code {
+        padding: 0.12rem 0.4rem;
+        border-radius: 0.35rem;
+        background: rgba(15, 95, 115, 0.08);
+        color: var(--accent-strong);
+        font-size: 0.96em;
+      }
+
+      .eyebrow-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.45rem;
+        margin-bottom: 1rem;
+        color: var(--text-soft);
+        font-size: 0.96rem;
+        font-weight: 600;
+        text-decoration: none;
+      }
+
+      .eyebrow-link:hover {
+        color: var(--text);
+      }
+
+      .callout {
+        margin: 1.4rem 0 1.8rem;
+        padding: 1rem 1.1rem;
+        border: 1px solid rgba(24, 96, 107, 0.16);
+        border-radius: var(--radius-medium);
+        background: linear-gradient(180deg, rgba(24, 96, 107, 0.06), rgba(255, 255, 255, 0.72));
+      }
+
+      .callout p {
+        margin: 0;
+        max-width: 64ch;
+      }
+
+      .image-frame,
+      .image-frame img {
+        width: 100%;
+      }
+
+      .image-frame {
+        margin: 1rem 0 1.5rem;
+      }
+
+      .image-frame--xs {
+        max-width: 3.9rem;
+      }
+
+      .image-frame--sm {
+        max-width: 12rem;
+      }
+
+      .image-frame--md {
+        max-width: 18rem;
+      }
+
+      .image-frame--lg {
+        max-width: 28rem;
+      }
+
+      .image-frame--xl {
+        max-width: 36rem;
+      }
+
+      .image-row {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 1rem;
+        align-items: flex-start;
+        margin: 1rem 0 1.5rem;
+      }
+
+      .image-row .image-frame {
+        margin: 0;
+      }
+
+      .key-instruction {
+        display: flex;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 0.75rem;
+        margin: 0.8rem 0;
+      }
+
+      .key-instruction p {
+        margin: 0;
+      }
+
+      .section-anchor-list {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(12rem, 1fr));
+        gap: 0.55rem 1rem;
+        padding: 0;
+        margin: 1.2rem 0 0;
+        list-style: none;
+      }
+
+      .section-anchor-list li {
+        margin: 0;
+      }
+
+      .section-anchor-list a {
+        display: inline-flex;
+        align-items: center;
+        min-height: 2.5rem;
+        padding: 0.45rem 0.8rem;
+        border: 1px solid var(--border);
+        border-radius: 999px;
+        background: rgba(255, 255, 255, 0.72);
+        text-decoration: none;
+      }
+
+      .section-anchor-list a:hover {
+        background: rgba(15, 95, 115, 0.08);
+      }
+
+      @media (max-width: 48rem) {
+        .site-header,
+        main {
+          width: calc(100% - 1rem);
+        }
+
+        .site-nav {
+          align-items: flex-start;
+          padding: 0.85rem 0.9rem;
+        }
+
+        h1 {
+          max-width: none;
+        }
+
+        .page-card {
+          padding: 1.15rem 1rem 1.5rem;
+        }
+
+        .section-anchor-list {
+          grid-template-columns: 1fr 1fr;
+        }
       }
     </style>
 </head>
 <body>
-   <nav>
-    
+  <a class="skip-link" href="#main-content">
+    {% if page.lang == 'nn' %}Hopp til innhald{% else %}Skip to content{% endif %}
+  </a>
+  <header class="site-header">
+    <nav class="site-nav" aria-label="Main navigation">
     {% if page.alt_url %}
       <div class="nav-links">
         {% if page.lang == 'nn' %}
@@ -60,14 +419,19 @@
     </div>
       <div class="lang-switch">
         <a href="{{ page.alt_url }}">
-          {% if page.lang == 'nn' %}🇬🇧 English{% endif %}
-          {% if page.lang == 'en' %}🇳🇴 Nynorsk{% endif %}
+          {% if page.lang == 'nn' %}English{% endif %}
+          {% if page.lang == 'en' %}Nynorsk{% endif %}
         </a>
       </div>
     {% endif %}
-  </nav>
+    </nav>
+  </header>
 
-  {{ content }}
+  <main id="main-content">
+    <article class="page-card">
+      {{ content }}
+    </article>
+  </main>
 
 </body>
 </html>

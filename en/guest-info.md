@@ -10,7 +10,22 @@ alt_url: ../nn/guest-info
 
 This page collects the practical information you may need before and during your stay at Koyribu.
 
-[Back to the cabin page](cabin)
+<a class="eyebrow-link" href="cabin">Back to the cabin page</a>
+
+<div class="callout">
+  <p><strong>Quick overview:</strong> You will find access details, house rules, kitchen information, waste handling, and departure steps on this page.</p>
+</div>
+
+<ul class="section-anchor-list">
+  <li><a href="#arrival-and-access">Arrival</a></li>
+  <li><a href="#wifi">WiFi</a></li>
+  <li><a href="#lights">Lights</a></li>
+  <li><a href="#kitchen">Kitchen</a></li>
+  <li><a href="#sauna">Sauna</a></li>
+  <li><a href="#waste-and-recycling">Waste</a></li>
+  <li><a href="#before-you-leave">Departure</a></li>
+  <li><a href="#contact">Contact</a></li>
+</ul>
 
 ---
 
@@ -22,34 +37,44 @@ This page collects the practical information you may need before and during your
 
 ---
 
-## Arrival and Access
+<h2 id="arrival-and-access">Arrival and Access</h2>
 
 The door code is sent through Airbnb. The keypad is next to the front door. Please lock the door whenever you leave the cabin.
 
-<img src="../img/info/door_keypad.png" alt="Keypad beside the front door" style="max-width:200px; height:auto;">
+<div class="image-frame image-frame--sm">
+  <img src="../img/info/door_keypad.png" alt="Keypad beside the front door">
+</div>
 
-Open: enter your code, then press the open button.
+<div class="key-instruction">
+  <div class="image-frame image-frame--xs">
+    <img src="../img/info/door_open.png" alt="Button used to open the door">
+  </div>
+  <p><strong>Open:</strong> enter your code, then press the open button.</p>
+</div>
 
-<img src="../img/info/door_open.png" alt="Button used to open the door" style="max-width:50px; height:auto;">
-
-Lock: press the lock button when leaving.
-
-<img src="../img/info/door_locked.png" alt="Button used to lock the door" style="max-width:50px; height:auto;">
+<div class="key-instruction">
+  <div class="image-frame image-frame--xs">
+    <img src="../img/info/door_locked.png" alt="Button used to lock the door">
+  </div>
+  <p><strong>Lock:</strong> press the lock button when leaving.</p>
+</div>
 
 ---
 
-## WiFi
+<h2 id="wifi">WiFi</h2>
 
 - Network: `koyribu-gjest`
 - Password: see the information booklet inside the cabin
 
 ---
 
-## Lights
+<h2 id="lights">Lights</h2>
 
 The cabin has smart lighting with dimmable wall switches. In the hallway by the entrance, the upper row controls the hallway lights and the lower row controls much of the cabin lighting.
 
-<img src="../img/info/light_switch_2_hall.png" alt="Hallway light switch" style="max-width:200px; height:auto;">
+<div class="image-frame image-frame--sm">
+  <img src="../img/info/light_switch_2_hall.png" alt="Hallway light switch">
+</div>
 
 Some switches control the same lights from different places. If nothing happens on the first press, press once more.
 
@@ -60,14 +85,18 @@ Some switches control the same lights from different places. If nothing happens 
 - Hold `1` to dim up
 - Hold `0` to dim down
 
-<img src="../img/info/light_switch_2.png" alt="Switch used for multiple lights" style="max-width:200px; height:auto;">
+<div class="image-frame image-frame--sm">
+  <img src="../img/info/light_switch_2.png" alt="Switch used for multiple lights">
+</div>
 
 ### Single-light switch
 
 - Use the left power button to turn the light on or off
 - Hold the sun button to dim
 
-<img src="../img/info/light_switch_1.png" alt="Switch used for one light" style="max-width:200px; height:auto;">
+<div class="image-frame image-frame--sm">
+  <img src="../img/info/light_switch_1.png" alt="Switch used for one light">
+</div>
 
 ---
 
@@ -91,7 +120,7 @@ A 5-litre container is kept in the refrigerator and can be refilled from the 20-
 
 ---
 
-## Kitchen
+<h2 id="kitchen">Kitchen</h2>
 
 The kitchen is fully equipped for everyday cooking. There are two visible drawers in the base cabinet, and an extra hidden white drawer inside the upper one. Wine and beer glasses are stored in the cabinet behind the bar stool closest to the hallway.
 
@@ -110,7 +139,9 @@ The kitchen is fully equipped for everyday cooking. There are two visible drawer
 - A light on the floor shows that the machine is running
 - Open the door after the cycle for faster drying
 
-<img src="../img/info/dish_washer.png" alt="Dishwasher controls" style="max-width:500px; height:auto;">
+<div class="image-frame image-frame--lg">
+  <img src="../img/info/dish_washer.png" alt="Dishwasher controls">
+</div>
 
 ### Ventilator
 
@@ -118,7 +149,9 @@ The kitchen is fully equipped for everyday cooking. There are two visible drawer
 - Inner button: on or off
 - Middle buttons: fan speed
 
-<img src="../img/info/kitchen_ventilator.png" alt="Kitchen ventilator controls" style="max-width:250px; height:auto;">
+<div class="image-frame image-frame--md">
+  <img src="../img/info/kitchen_ventilator.png" alt="Kitchen ventilator controls">
+</div>
 
 ### Cooktop
 
@@ -142,27 +175,35 @@ The freezer is located in the stairwell. Plug it in if you want to use it.
 
 Please turn on the fan when showering. The button is placed by the bathroom entrance door.
 
-<img src="../img/info/light_heat_switches.png" alt="Bathroom controls for lights, fan, and heat" style="max-width:200px; height:auto;">
+<div class="image-frame image-frame--sm">
+  <img src="../img/info/light_heat_switches.png" alt="Bathroom controls for lights, fan, and heat">
+</div>
 
 ---
 
-## Sauna
+<h2 id="sauna">Sauna</h2>
 
 The switch on the right turns on the sauna. The white or clear section sets the number of hours, and the black section controls delayed start. The switch on the left controls temperature. At the red mark, the sauna is about 75 degrees Celsius.
 
-<img src="../img/info/sauna.png" alt="Sauna controls" style="max-width:200px; height:auto;">
+<div class="image-frame image-frame--sm">
+  <img src="../img/info/sauna.png" alt="Sauna controls">
+</div>
 
 ---
 
-## Waste and Recycling
+<h2 id="waste-and-recycling">Waste and Recycling</h2>
 
 Waste is collected in shared bins at Hodlekve ski center, near the last parking area. Paper and cardboard, glass and metal are sorted separately, while the rest goes in general waste. Bottle deposits can also be donated to the Red Cross there.
 
-<img src="../img/info/trash.png" alt="Shared waste bins at Hodlekve ski center" style="max-width:400px; height:auto;">
+<div class="image-frame image-frame--lg">
+  <img src="../img/info/trash.png" alt="Shared waste bins at Hodlekve ski center">
+</div>
 
 The map below shows the bin location. The cabin is marked with a red marker.
 
-<img src="../img/info/trash_map.png" alt="Map showing where to find the shared waste bins" style="max-width:550px; height:auto;">
+<div class="image-frame image-frame--xl">
+  <img src="../img/info/trash_map.png" alt="Map showing where to find the shared waste bins">
+</div>
 
 ---
 
@@ -170,7 +211,9 @@ The map below shows the bin location. The cabin is marked with a red marker.
 
 The coffee table in the upstairs living room opens in the middle. Lift it carefully to the side. There are games stored inside.
 
-<img src="../img/info/games.png" alt="Board games stored inside the coffee table" style="max-width:400px; height:auto;">
+<div class="image-frame image-frame--lg">
+  <img src="../img/info/games.png" alt="Board games stored inside the coffee table">
+</div>
 
 ---
 
@@ -178,7 +221,9 @@ The coffee table in the upstairs living room opens in the middle. Lift it carefu
 
 Chargers are available at Dalalaven Cafe and ski center, around 500 metres from the cabin.
 
-<img src="../img/info/EV_charging.png" alt="Electric car charging at Dalalaven" style="max-width:300px; height:auto;">
+<div class="image-frame image-frame--md">
+  <img src="../img/info/EV_charging.png" alt="Electric car charging at Dalalaven">
+</div>
 
 More information: [EV charging in Hodlekve](https://en.sogndalskisenter.no/aktuelt/elbil-lading-i-rindabotn)
 
@@ -186,7 +231,7 @@ There are also high-power chargers in Sogndal.
 
 ---
 
-## Before You Leave
+<h2 id="before-you-leave">Before You Leave</h2>
 
 - Start the dishwasher if needed
 - Otherwise, wash and put away all kitchen utensils and tableware
@@ -199,7 +244,7 @@ There are also high-power chargers in Sogndal.
 
 ---
 
-## Contact
+<h2 id="contact">Contact</h2>
 
 - Randi Oyri: +47 41518358
 - Espen Korra: +47 92808669

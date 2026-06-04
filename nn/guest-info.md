@@ -10,7 +10,22 @@ alt_url: ../en/guest-info
 
 Her finn du den praktiske informasjonen du kan trenge før og under opphaldet på Koyribu.
 
-[Tilbake til hyttesida](cabin)
+<a class="eyebrow-link" href="cabin">Tilbake til hyttesida</a>
+
+<div class="callout">
+  <p><strong>Snøgg oversikt:</strong> Her finn du informasjon om tilgang, husreglar, kjøkken, boss, og kva du bør gjere før avreise.</p>
+</div>
+
+<ul class="section-anchor-list">
+  <li><a href="#ankomst-og-tilgang">Ankomst</a></li>
+  <li><a href="#wifi">Wifi</a></li>
+  <li><a href="#lys">Lys</a></li>
+  <li><a href="#kjokken">Kjøkken</a></li>
+  <li><a href="#badstove">Badstove</a></li>
+  <li><a href="#boss-og-sortering">Boss</a></li>
+  <li><a href="#for-du-reiser">Avreise</a></li>
+  <li><a href="#kontakt">Kontakt</a></li>
+</ul>
 
 ---
 
@@ -22,34 +37,44 @@ Her finn du den praktiske informasjonen du kan trenge før og under opphaldet p�
 
 ---
 
-## Ankomst og tilgang
+<h2 id="ankomst-og-tilgang">Ankomst og tilgang</h2>
 
 Dørkoden blir sendt via Airbnb. Tastaturet står ved inngangsdøra. Ver venleg å låse døra kvar gong du forlèt hytta.
 
-<img src="../img/info/door_keypad.png" alt="Tastatur ved inngangsdøra" style="max-width:200px; height:auto;">
+<div class="image-frame image-frame--sm">
+  <img src="../img/info/door_keypad.png" alt="Tastatur ved inngangsdøra">
+</div>
 
-Opne: tast inn koden og trykk på knappen for å opne døra.
+<div class="key-instruction">
+  <div class="image-frame image-frame--xs">
+    <img src="../img/info/door_open.png" alt="Knapp for å opne døra">
+  </div>
+  <p><strong>Opne:</strong> tast inn koden og trykk på knappen for å opne døra.</p>
+</div>
 
-<img src="../img/info/door_open.png" alt="Knapp for å opne døra" style="max-width:50px; height:auto;">
-
-Låse: trykk på låseknappen når du går.
-
-<img src="../img/info/door_locked.png" alt="Knapp for å låse døra" style="max-width:50px; height:auto;">
+<div class="key-instruction">
+  <div class="image-frame image-frame--xs">
+    <img src="../img/info/door_locked.png" alt="Knapp for å låse døra">
+  </div>
+  <p><strong>Låse:</strong> trykk på låseknappen når du går.</p>
+</div>
 
 ---
 
-## Wifi
+<h2 id="wifi">Wifi</h2>
 
 - Nettverk: `koyribu-gjest`
 - Passord: sjå informasjonsheftet inne i hytta
 
 ---
 
-## Lys
+<h2 id="lys">Lys</h2>
 
 Hytta har smarte lys med dimming via veggbrytarane. I gangen ved inngangen styrer øvste rad ganglyset, medan nedste rad styrer mykje av lyset i hytta.
 
-<img src="../img/info/light_switch_2_hall.png" alt="Lysbrytar i gangen" style="max-width:200px; height:auto;">
+<div class="image-frame image-frame--sm">
+  <img src="../img/info/light_switch_2_hall.png" alt="Lysbrytar i gangen">
+</div>
 
 Nokre brytarar styrer same lys frå fleire stader. Dersom ingenting skjer ved første trykk, prøv éin gong til.
 
@@ -60,14 +85,18 @@ Nokre brytarar styrer same lys frå fleire stader. Dersom ingenting skjer ved f�
 - Hald inne `1` for å dimme opp
 - Hald inne `0` for å dimme ned
 
-<img src="../img/info/light_switch_2.png" alt="Brytar for fleire lys" style="max-width:200px; height:auto;">
+<div class="image-frame image-frame--sm">
+  <img src="../img/info/light_switch_2.png" alt="Brytar for fleire lys">
+</div>
 
 ### Brytar for eitt lys
 
 - Bruk venstre av/på-knapp for å slå av og på
 - Hald inne solknappen for å dimme
 
-<img src="../img/info/light_switch_1.png" alt="Brytar for eitt lys" style="max-width:200px; height:auto;">
+<div class="image-frame image-frame--sm">
+  <img src="../img/info/light_switch_1.png" alt="Brytar for eitt lys">
+</div>
 
 ---
 
@@ -91,7 +120,7 @@ Ei 5-literskanne står i kjøleskapet og kan fyllast frå 20-literskannene som s
 
 ---
 
-## Kjøkken
+<h2 id="kjokken">Kjøkken</h2>
 
 Kjøkkenet er godt utstyrt for vanleg matlaging. I underskapet er det to synlege skuffer, og inni den øvste ligg det ei ekstra skjult kvit skuff. Vin- og ølglas står i skapet bak barkrakken nærast gangen.
 
@@ -110,7 +139,9 @@ Kjøkkenet er godt utstyrt for vanleg matlaging. I underskapet er det to synlege
 - Eit lys på golvet viser at maskina går
 - Opne døra etter vask for raskare tørk
 
-<img src="../img/info/dish_washer.png" alt="Kontrollpanel for oppvaskmaskin" style="max-width:500px; height:auto;">
+<div class="image-frame image-frame--lg">
+  <img src="../img/info/dish_washer.png" alt="Kontrollpanel for oppvaskmaskin">
+</div>
 
 ### Ventilator
 
@@ -118,7 +149,9 @@ Kjøkkenet er godt utstyrt for vanleg matlaging. I underskapet er det to synlege
 - Inste knapp: av og på
 - Midtknappar: viftefart
 
-<img src="../img/info/kitchen_ventilator.png" alt="Kontrollar for kjøkkenventilator" style="max-width:250px; height:auto;">
+<div class="image-frame image-frame--md">
+  <img src="../img/info/kitchen_ventilator.png" alt="Kontrollar for kjøkkenventilator">
+</div>
 
 ### Koketopp
 
@@ -142,27 +175,35 @@ Frysaren står i trappegangen. Kople han til om du vil bruke han.
 
 Slå på vifta når du dusjar. Knappen står ved baddøra.
 
-<img src="../img/info/light_heat_switches.png" alt="Brytarar for lys, vifte og varme på badet" style="max-width:200px; height:auto;">
+<div class="image-frame image-frame--sm">
+  <img src="../img/info/light_heat_switches.png" alt="Brytarar for lys, vifte og varme på badet">
+</div>
 
 ---
 
-## Badstove
+<h2 id="badstove">Badstove</h2>
 
 Brytaren til høgre slår på badstova. Den kvite eller gjennomsiktige delen styrer kor mange timar ho skal vere på, medan den svarte delen styrer forseinka start. Brytaren til venstre styrer temperaturen. Ved raud markering er temperaturen om lag 75 grader.
 
-<img src="../img/info/sauna.png" alt="Kontrollar for badstova" style="max-width:200px; height:auto;">
+<div class="image-frame image-frame--sm">
+  <img src="../img/info/sauna.png" alt="Kontrollar for badstova">
+</div>
 
 ---
 
-## Boss og sortering
+<h2 id="boss-og-sortering">Boss og sortering</h2>
 
 Boss blir levert i felles dunkar ved Hodlekve skisenter, ved den siste parkeringsplassen. Papir og papp, glas og metall blir sorterte kvar for seg, medan resten går i restavfall. Pant kan også givast til Raude Krossen der.
 
-<img src="../img/info/trash.png" alt="Felles bossdunkar ved Hodlekve skisenter" style="max-width:400px; height:auto;">
+<div class="image-frame image-frame--lg">
+  <img src="../img/info/trash.png" alt="Felles bossdunkar ved Hodlekve skisenter">
+</div>
 
 Kartet under viser kvar dunkane står. Hytta er markert med raud markør.
 
-<img src="../img/info/trash_map.png" alt="Kart som viser kor dei felles bossdunkane ligg" style="max-width:550px; height:auto;">
+<div class="image-frame image-frame--xl">
+  <img src="../img/info/trash_map.png" alt="Kart som viser kor dei felles bossdunkane ligg">
+</div>
 
 ---
 
@@ -170,7 +211,9 @@ Kartet under viser kvar dunkane står. Hytta er markert med raud markør.
 
 Sofabordet i stova oppe kan opnast i midten. Løft det forsiktig til sida. Det ligg spel inni.
 
-<img src="../img/info/games.png" alt="Spel oppbevarte i sofabordet" style="max-width:400px; height:auto;">
+<div class="image-frame image-frame--lg">
+  <img src="../img/info/games.png" alt="Spel oppbevarte i sofabordet">
+</div>
 
 ---
 
@@ -178,7 +221,9 @@ Sofabordet i stova oppe kan opnast i midten. Løft det forsiktig til sida. Det l
 
 Det finst ladarar ved Dalalåven kafé og skisenter, om lag 500 meter frå hytta.
 
-<img src="../img/info/EV_charging.png" alt="Elbillading ved Dalalåven" style="max-width:300px; height:auto;">
+<div class="image-frame image-frame--md">
+  <img src="../img/info/EV_charging.png" alt="Elbillading ved Dalalåven">
+</div>
 
 Meir informasjon: [Elbillading i Hodlekve](https://en.sogndalskisenter.no/aktuelt/elbil-lading-i-rindabotn)
 
@@ -186,7 +231,7 @@ Det finst også hurtigladarar i Sogndal.
 
 ---
 
-## Før du reiser
+<h2 id="for-du-reiser">Før du reiser</h2>
 
 - Start oppvaskmaskina ved behov
 - Elles skal alt kjøkkenutstyr og servise vaskast og setjast på plass
@@ -199,7 +244,7 @@ Det finst også hurtigladarar i Sogndal.
 
 ---
 
-## Kontakt
+<h2 id="kontakt">Kontakt</h2>
 
 - Randi Oyri: +47 41518358
 - Espen Korra: +47 92808669
