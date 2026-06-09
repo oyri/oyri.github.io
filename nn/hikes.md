@@ -57,7 +57,7 @@ Køyribu ligg godt til for sommarturar i Sogndalsfjella og området kring Fjærl
       </ul>
     </div>
     <div class="image-frame">
-      <img src="../img/hikes/gjerde-sogndal-20221203_140809.jpg" alt="Roligare fjellterreng i området nær Gunvordalen">
+      <img src="../img/hikes/gunvordalen_20250723.jpg" alt="Roligare fjellterreng i området nær Gunvordalen">
     </div>
   </div>
 </div>
@@ -80,7 +80,7 @@ Køyribu ligg godt til for sommarturar i Sogndalsfjella og området kring Fjærl
       </ul>
     </div>
     <div class="image-frame">
-      <img src="../img/hikes/mot-rindabotn-20220806_150411.jpg" alt="Sommarlandskap i området kring Anestølen og Hodlekve">
+      <img src="../img/hikes/anestolen_20250621.jpg" alt="Sommarlandskap i området kring Anestølen og Hodlekve">
     </div>
   </div>
 </div>
@@ -103,7 +103,7 @@ Køyribu ligg godt til for sommarturar i Sogndalsfjella og området kring Fjærl
       </ul>
     </div>
     <div class="image-frame">
-      <img src="../img/hikes/mot-rindabotn-20220806_150411.jpg" alt="Fjellterreng i nærleiken av Togga">
+      <img src="../img/hikes/togga1_20250723.jpg" alt="Fjellterreng i nærleiken av Togga">
     </div>
   </div>
 

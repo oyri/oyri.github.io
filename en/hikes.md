@@ -57,7 +57,7 @@ Køyribu is well placed for summer hikes in the Sogndal mountains and the Fjærl
       </ul>
     </div>
     <div class="image-frame">
-      <img src="../img/hikes/gjerde-sogndal-20221203_140809.jpg" alt="Gentler mountain terrain in the Gunvordalen area">
+      <img src="../img/hikes/gunvordalen_20250723.jpg" alt="Gentler mountain terrain in the Gunvordalen area">
     </div>
   </div>
 </div>
@@ -80,7 +80,7 @@ Køyribu is well placed for summer hikes in the Sogndal mountains and the Fjærl
       </ul>
     </div>
     <div class="image-frame">
-      <img src="../img/hikes/mot-rindabotn-20220806_150411.jpg" alt="Summer landscape around Anestolen and Hodlekve">
+      <img src="../img/hikes/anestolen_20250621.jpg" alt="Summer landscape around Anestolen and Hodlekve">
     </div>
   </div>
 </div>
@@ -103,7 +103,7 @@ Køyribu is well placed for summer hikes in the Sogndal mountains and the Fjærl
       </ul>
     </div>
     <div class="image-frame">
-      <img src="../img/hikes/mot-rindabotn-20220806_150411.jpg" alt="Mountain terrain near Togga">
+      <img src="../img/hikes/togga1_20250723.jpg" alt="Mountain terrain near Togga">
     </div>
   </div>
 
