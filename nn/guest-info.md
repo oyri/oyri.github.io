@@ -246,8 +246,8 @@ Det finst også hurtigladarar i Sogndal.
 
 <h2 id="kontakt">Kontakt</h2>
 
-- Randi Oyri: +47 41518358
-- Espen Korra: +47 92808669
+- Randi Øyri: +47 41518358
+- Espen Kørra: +47 92808669
 - Eller kontakt oss via Airbnb-meldingar
 
 ---

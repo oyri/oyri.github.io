@@ -23,18 +23,6 @@ Køyribu is well placed for summer hikes in the Sogndal mountains and the Fjærl
   <li><a href="#before-you-go">Before you go</a></li>
 </ul>
 
-<div class="image-row">
-  <div class="image-frame image-frame--lg">
-    <img src="../img/hikes/fagereggi-vatn-regn.jpeg" alt="Mountain lakes near Fagreggi">
-  </div>
-  <div class="image-frame image-frame--lg">
-    <img src="../img/hikes/molden.jpeg" alt="View from Molden">
-  </div>
-  <div class="image-frame image-frame--lg">
-    <img src="../img/hikes/skrefjellet.jpeg" alt="Skredfjellet with fjord views">
-  </div>
-</div>
-
 ---
 
 <h2 id="nearby">Near the cabin</h2>

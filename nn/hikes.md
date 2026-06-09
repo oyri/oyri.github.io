@@ -23,18 +23,6 @@ Køyribu ligg godt til for sommarturar i Sogndalsfjella og området kring Fjærl
   <li><a href="#tur-tips">Før de går</a></li>
 </ul>
 
-<div class="image-row">
-  <div class="image-frame image-frame--lg">
-    <img src="../img/hikes/fagereggi-vatn-regn.jpeg" alt="Fjellvatn ved Fagreggi">
-  </div>
-  <div class="image-frame image-frame--lg">
-    <img src="../img/hikes/molden.jpeg" alt="Utsikt frå Molden">
-  </div>
-  <div class="image-frame image-frame--lg">
-    <img src="../img/hikes/skrefjellet.jpeg" alt="Skredfjellet med utsikt mot fjorden">
-  </div>
-</div>
-
 ---
 
 <h2 id="nare">Nær hytta</h2>
