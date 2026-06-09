@@ -6,114 +6,169 @@ alt_lang: en
 alt_url: ../en/hikes
 ---
 
-# 🏔️ Fjellturar i nærområdet
+# Fjellturar nær Køyribu
 
-Hytta **Køyribu** ligg perfekt til for fjellturar i Sogndalsfjella og området kring Fjærland. Her finn du eit utval av våre favoritturar på sommarstid – frå luftige toppar med fjordutsikt til lettgåtte dalar.
+Køyribu ligg godt til for sommarturar i Sogndalsfjella og området kring Fjærland. Her har vi samla turar som fungerer godt frå hytta, frå korte familieturar og fiskestopp til toppar med stor utsikt over fjord og fjell.
 
----
+<a class="eyebrow-link" href="activities">Tilbake til aktivitetar</a>
 
-## ⛰️ Skredfjellet – Fjord og fjell i Fjærland
+<div class="callout">
+  <p><strong>Snøgg oversikt:</strong> Vel Fagreggi eller Anestølen for ein enkel dag ute, Gunvordalen når de vil halde det roleg og ope, og Togga, Molden eller Skredfjellet når målet er utsikt og ein meir tydeleg topptur.</p>
+</div>
 
-<img src="../img/hikes/skrefjellet.jpeg" alt="Skredfjellet" style="max-width:500px; width:100%; height:auto;">
+<ul class="section-anchor-list">
+  <li><a href="#nare">Nær hytta</a></li>
+  <li><a href="#familieturar">Familieturar</a></li>
+  <li><a href="#toppturar">Toppturar</a></li>
+  <li><a href="#tur-tips">Før de går</a></li>
+</ul>
 
-
-**Om turen**  
-Ein fantastisk tur om du ønskjer utsikt over fjord og fjell. Turen startar ved Berge, rett før Fjærland. Utsikta frå toppen er storslått!
-
-- 🚗 Køyreavstand: ca. 20 min frå hytta
-- ⏱️ Tidsbruk: 3–4 timar t/r
-- 🥾 Vanskelighetsgrad: Middels
-- 🔗 [Les meir hos Visit Norway](https://www.visitnorway.no/listings/fjell-og-fjord-vandring-til-skredfjellet-i-fj%C3%A6rland/246118/)
-
----
-
-## ⛰️ Togga – Luftig utsikt nært hytta
-
-<img src="../img/hikes/togga.jpeg" alt="Togga" style="max-width:500px; width:100%; height:auto;">
-
-**Om turen**  
-Ein luftig og populær topp med 360-graders utsikt. Bratt stigning gjennom skogen, så unngå turen i regnvêr. Start frå parkeringsplass ved Nystølen.
-
-- 🚗 Køyreavstand: 5–10 min frå hytta
-- ⏱️ Tidsbruk: 3-4 timar t/r
-- 🥾 Vanskelighetsgrad: Krevjande
-- ⚠️ NB: Bratt og glatt i skoggrensa når det er vått
-- 🔗 [Turbeskriving på UT.no](https://ut.no/turforslag/116454)  
-- 🔗 [Bilder og inspirasjon](https://www.fjellvenner.no/fjellturer-i-andre-fjellomraader/togga-1205-moh)
+<div class="image-row">
+  <div class="image-frame image-frame--lg">
+    <img src="../img/hikes/fagereggi-vatn-regn.jpeg" alt="Fjellvatn ved Fagreggi">
+  </div>
+  <div class="image-frame image-frame--lg">
+    <img src="../img/hikes/molden.jpeg" alt="Utsikt frå Molden">
+  </div>
+  <div class="image-frame image-frame--lg">
+    <img src="../img/hikes/skrefjellet.jpeg" alt="Skredfjellet med utsikt mot fjorden">
+  </div>
+</div>
 
 ---
 
-## 🌿 Gunvordalen – Lett og idyllisk dal
+<h2 id="nare">Nær hytta</h2>
 
-<img src="../img/hikes/gunvordalen.jpeg" alt="Gunvordalen" style="max-width:500px; width:100%; height:auto;">
+<div class="route-list">
+  <div class="route-card">
+    <div>
+      <h3>Fagreggi</h3>
+      <p>Ein enkel tur opp mot tregrensa med fleire små vatn undervegs. Dette er eit svært godt val om de vil gå rett frå nærområdet og kombinere tur med fiske, pause og utsikt.</p>
+      <ul class="meta-list">
+        <li><strong>Avstand:</strong> Kan gåast direkte frå hytta eller frå Hodlekve.</li>
+        <li><strong>Tidsbruk:</strong> Om lag 1 time opp, med moglegheit for å forlenge turen vidare.</li>
+        <li><strong>Vanskegrad:</strong> Lett.</li>
+        <li><strong>Fiske:</strong> Mange små vatn med aure. Fiskekort kan kjøpast med Vipps `699351`. Born under 16 år fiskar gratis.</li>
+        <li><strong>Lenkjer:</strong> <a href="https://www.norgeskart.no/#!?project=norgeskart&layers=1001&zoom=13&lat=6819263.65&lon=69324.80&sok=fagreggi&markerLat=6819267.220029058&markerLon=69071.47161072219&p=searchOptionsPanel">Kart i Norgeskart</a> og <a href="https://www.visitnorway.no/listings/g%C3%A5tur-til-fagreggi/261753">turinfo hos Visit Norway</a>.</li>
+      </ul>
+    </div>
+    <div class="image-frame">
+      <img src="../img/hikes/fagereggi-vatn-regn.jpeg" alt="Fagreggi med små fjellvatn">
+    </div>
+  </div>
 
-**Om turen**  
-Om du heller vil ha ein lettare og flatare tur, byr Gunvordalen på roleg natur og fine omgjevnadar. Start frå same parkeringsplass som Togga.
-
-- 🚗 Køyreavstand: 5–10 min frå hytta
-- ⏱️ Tidsbruk: 1–3 timar t/r (valfritt kor langt du går)
-- 🥾 Vanskelighetsgrad: Enkel
-- 🔗 [Tursti i Gunvordalen – Peakbook](https://peakbook.org/no/peakbook-element/63255/Tursti+Gunvordalen.html)
-
----
-## 🎣 Fagreggi – Familietur med fiske i fjellvatn
-
-
-<img src="../img/hikes/fagereggi-vatn-regn.jpeg" alt="Fagereggi" style="max-width:500px; width:100%; height:auto;">
-
-**Om turen**  
-Ein enkel familietur som går roleg opp til tregrensa, med fleire små fjellvatn perfekt til fiske. Vanlegvis berre rundt 1 time å gå opp.
-
-- 🚗 Køyreavstand: 0, kan gå rett frå hytta / (frå Sogndal Skisenter / Hodlekve)
-- ⏱️ Tidsbruk: ca. 1 time opp – enkel tur
-- 🥾 Vanskelighetsgrad: Lett  
-- 🎣 Fiskemoglegheit: Ja – mange små vatn med aure. Hugs å kjøpet fiskekort. Vipps #699351 (30kr for dagskort). Born under 16år fiskar gratis. NB: gjeld ikkje Fjærlandssetvatnet.
-- Kart: https://www.norgeskart.no/#!?project=norgeskart&layers=1001&zoom=13&lat=6819263.65&lon=69324.80&sok=fagreggi&markerLat=6819267.220029058&markerLon=69071.47161072219&p=searchOptionsPanel
-- 🔗 (https://www.visitnorway.no/listings/g%C3%A5tur-til-fagreggi/261753)
-
----
-
-## 🐐 Anestølen – Familievenleg stølstur med geiter og fiske
-
-<img src="../img/hikes/anestolen.jpeg" alt="Anestølen" style="max-width:500px; width:100%; height:auto;">
-
-**Om turen**  
-Den perfekte familieturen: roleg vandring langs dalen, møte med over 400–600 beitande geiter – og moglegheit for å fiske eller bade i Anestølsvatnet. 
-
-- 🚗 Køyreavstand: ca. 10 min frå hytta (frå Sogndal Skisenter/Hodlekve via bomveg)
-- ⏱️ Tidsbruk: 0 om ein køyrer bomvegen, eller 1-2 timar tur/retur om ein går grusvegen langs Anestølsvatnet
-- 🥾 Vanskeligheitsgrad: Lett
-- 🎣 Fiskemoglegheit: Ja – i Anestølsvatnet langs vegen, også mogleg for å bade
-- 💶 Pris: bomveg ca NOK 50 per bil
-- 🔗 https://www.fjordnorway.com/no/se-og-gjore/sykkeltur-til-anestolen
-- 🔗 [Guiding og stølsbesøk](https://www.visitnorway.no/listings/guida-st%C3%B8lsbes%C3%B8k-anest%C3%B8len-sogndal/245705/)
+  <div class="route-card">
+    <div>
+      <h3>Gunvordalen</h3>
+      <p>Når de heller vil ha ein lettare og flatare tur, er Gunvordalen eit fint val. Terrenget er rolegare enn på toppane rundt, og turen eignar seg godt når de vil gå utan å binde dykk til ein lang dag.</p>
+      <ul class="meta-list">
+        <li><strong>Startpunkt:</strong> Same parkeringsplass som for Togga.</li>
+        <li><strong>Tidsbruk:</strong> 1 til 3 timar tur-retur, alt etter kor langt de ønskjer å gå.</li>
+        <li><strong>Vanskegrad:</strong> Lett.</li>
+        <li><strong>Lenkje:</strong> <a href="https://peakbook.org/no/peakbook-element/63255/Tursti+Gunvordalen.html">Tursti i Gunvordalen på Peakbook</a>.</li>
+      </ul>
+    </div>
+    <div class="image-frame">
+      <img src="../img/hikes/gjerde-sogndal-20221203_140809.jpg" alt="Roligare fjellterreng i området nær Gunvordalen">
+    </div>
+  </div>
+</div>
 
 ---
 
-## 🏞️ Molden – Klassikaren med fjordutsikt
+<h2 id="familieturar">Familieturar og enkle stopp</h2>
 
-
-<img src="../img/hikes/molden.jpeg" alt="Molden" style="max-width:500px; width:100%; height:auto;">
-
-
-**Om turen**  
-Ein av dei mest populære turane i området. Spektakulær utsikt over Lustrafjorden. Start frå Krossen.
-
-- 🚗 Køyreavstand: ca. 30 min frå hytta
-- ⏱️ Tidsbruk: 2–3 timar t/r
-- 🥾 Vanskelighetsgrad: Middels
-- 🔗 [Topptur til Molden frå Krossen – UT.no](https://ut.no/turforslag/118573/topptur-til-molden-fra-krossen)
-
----
-
-## 🧭 Tips før tur
-- Sjekk vêrvarsel før du går – spesielt viktig på Togga og Skredfjellet
-- Ta med drikke og ekstra klede
-- Bruk gode sko – enkelte parti kan vere steinete og bratte
-- Turbeskrivingar finst på **UT.no** og gode kart hos **Norgeskart.no**
-- Kjøp av fiskekort: https://www.sogndalskisenter.no/fiske
+<div class="route-list">
+  <div class="route-card">
+    <div>
+      <h3>Anestølen</h3>
+      <p>Ein familievenleg stølstur med roleg dalføre, geiter i beiteområdet og moglegheit for både fiske og bading. Dette er ein av dei mest fleksible turane i området, særleg for familiar eller dagar med skiftande energi.</p>
+      <ul class="meta-list">
+        <li><strong>Køyreavstand:</strong> Om lag 10 minutt frå hytta via bomveg frå Hodlekve.</li>
+        <li><strong>Tidsbruk:</strong> 1 til 2 timar tur-retur om de går grusvegen, eller kortare stopp dersom de køyrer inn.</li>
+        <li><strong>Vanskegrad:</strong> Lett.</li>
+        <li><strong>Ekstra:</strong> Fint for fiske, bading og møte med dyr på beite. Bomveg kostar om lag NOK 50 per bil.</li>
+        <li><strong>Lenkjer:</strong> <a href="https://www.fjordnorway.com/no/se-og-gjore/sykkeltur-til-anestolen">Anestølen hos Fjord Norway</a> og <a href="https://www.visitnorway.no/listings/guida-st%C3%B8lsbes%C3%B8k-anest%C3%B8len-sogndal/245705/">guiding og stølsbesøk</a>.</li>
+      </ul>
+    </div>
+    <div class="image-frame">
+      <img src="../img/hikes/mot-rindabotn-20220806_150411.jpg" alt="Sommarlandskap i området kring Anestølen og Hodlekve">
+    </div>
+  </div>
+</div>
 
 ---
 
-God tur frå oss på **Køyribu**!
-Dersom ynskjeleg kan me også ta oss guiding på desse eller andre turar i Sogndalsdalen, me er godt kjent.
+<h2 id="toppturar">Toppturar med utsikt</h2>
+
+<div class="route-list">
+  <div class="route-card">
+    <div>
+      <h3>Togga</h3>
+      <p>Ein populær topp nær hytta med brei utsikt når de kjem opp. Stigninga er bratt gjennom skogen, så denne turen passar best på tørre dagar når de ønskjer ei meir krevjande økt.</p>
+      <ul class="meta-list">
+        <li><strong>Køyreavstand:</strong> 5 til 10 minutt til start ved Nystølen.</li>
+        <li><strong>Tidsbruk:</strong> 3 til 4 timar tur-retur.</li>
+        <li><strong>Vanskegrad:</strong> Krevjande.</li>
+        <li><strong>Merk:</strong> Kan vere glatt og sleipt i skoggrensa når det er vått.</li>
+        <li><strong>Lenkjer:</strong> <a href="https://ut.no/turforslag/116454">Turbeskriving på UT.no</a> og <a href="https://www.fjellvenner.no/fjellturer-i-andre-fjellomraader/togga-1205-moh">bilete og inspirasjon</a>.</li>
+      </ul>
+    </div>
+    <div class="image-frame">
+      <img src="../img/hikes/mot-rindabotn-20220806_150411.jpg" alt="Fjellterreng i nærleiken av Togga">
+    </div>
+  </div>
+
+  <div class="route-card">
+    <div>
+      <h3>Molden</h3>
+      <p>Ein klassikar i området med storslått utsikt over Lustrafjorden. Turen passar godt som dagstur frå hytta når de vil kombinere ein moderat topptur med ein av dei mest kjende fjordutsiktene i regionen.</p>
+      <ul class="meta-list">
+        <li><strong>Køyreavstand:</strong> Om lag 30 minutt til start ved Krossen.</li>
+        <li><strong>Tidsbruk:</strong> 2 til 3 timar tur-retur.</li>
+        <li><strong>Vanskegrad:</strong> Middels.</li>
+        <li><strong>Lenkje:</strong> <a href="https://ut.no/turforslag/118573/topptur-til-molden-fra-krossen">Topptur til Molden på UT.no</a>.</li>
+      </ul>
+    </div>
+    <div class="image-frame">
+      <img src="../img/hikes/molden.jpeg" alt="Molden med utsikt over Lustrafjorden">
+    </div>
+  </div>
+
+  <div class="route-card">
+    <div>
+      <h3>Skredfjellet</h3>
+      <p>Ein flott tur i retning Fjærland når de vil ha både fjord og fjell i same oppleving. Starten ved Berge gjer dette til ein fin dagstur frå hytta med litt meir reise, men stor belønning på toppen.</p>
+      <ul class="meta-list">
+        <li><strong>Køyreavstand:</strong> Om lag 20 minutt frå hytta.</li>
+        <li><strong>Tidsbruk:</strong> 3 til 4 timar tur-retur.</li>
+        <li><strong>Vanskegrad:</strong> Middels.</li>
+        <li><strong>Lenkje:</strong> <a href="https://www.visitnorway.no/listings/fjell-og-fjord-vandring-til-skredfjellet-i-fj%C3%A6rland/246118/">Turbeskriving hos Visit Norway</a>.</li>
+      </ul>
+    </div>
+    <div class="image-frame">
+      <img src="../img/hikes/skrefjellet.jpeg" alt="Skredfjellet med fjord og fjellutsikt">
+    </div>
+  </div>
+</div>
+
+---
+
+<h2 id="tur-tips">Tips før de går</h2>
+
+<div class="info-grid">
+  <div class="info-card">
+    <h3>Planlegg etter vêr</h3>
+    <p>Sjekk vêrmelding før de går, særleg for Togga og Skredfjellet. Bratte parti blir raskt mindre trivelege når det er vått.</p>
+  </div>
+  <div class="info-card">
+    <h3>Ta med litt ekstra</h3>
+    <p>Drikke, ekstra klede og gode sko gjer mykje. Nokre parti er steinete, og vêret skiftar fort i fjellet.</p>
+  </div>
+  <div class="info-card">
+    <h3>Kart og fiskekort</h3>
+    <p>Bruk gjerne <a href="https://ut.no/">UT.no</a> og <a href="https://www.norgeskart.no/">Norgeskart</a> for turplanlegging. Fiskekort finn de hos <a href="https://www.sogndalskisenter.no/fiske">Sogndal Skisenter</a>.</p>
+  </div>
+</div>
+
+God tur frå oss på Køyribu. Om de ønskjer fleire lokale tips, deler vi gjerne forslag som passar ver, form og kven som er med på turen.

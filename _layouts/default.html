@@ -369,6 +369,80 @@
         background: rgba(15, 95, 115, 0.08);
       }
 
+      .info-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(14rem, 1fr));
+        gap: 1rem;
+        margin: 1.5rem 0 2rem;
+      }
+
+      .info-card,
+      .route-card {
+        padding: 1.1rem 1.15rem;
+        border: 1px solid var(--border);
+        border-radius: var(--radius-medium);
+        background: rgba(255, 255, 255, 0.74);
+        box-shadow: 0 10px 24px rgba(18, 39, 54, 0.06);
+      }
+
+      .info-card h3,
+      .route-card h3 {
+        margin-top: 0;
+      }
+
+      .info-card p,
+      .route-card p,
+      .route-card ul,
+      .route-card li {
+        max-width: none;
+      }
+
+      .route-list {
+        display: grid;
+        gap: 1rem;
+        margin: 1.5rem 0 2rem;
+      }
+
+      .route-card {
+        display: grid;
+        grid-template-columns: minmax(0, 1.7fr) minmax(13rem, 1fr);
+        gap: 1rem 1.25rem;
+        align-items: start;
+      }
+
+      .route-card .image-frame {
+        margin: 0;
+        max-width: none;
+      }
+
+      .route-card .image-frame img {
+        aspect-ratio: 4 / 3;
+        object-fit: cover;
+      }
+
+      .meta-list {
+        padding: 0;
+        margin: 1rem 0 0;
+        list-style: none;
+      }
+
+      .meta-list li {
+        margin: 0.4rem 0 0;
+        color: var(--text-soft);
+      }
+
+      .meta-list strong {
+        color: var(--text);
+      }
+
+      .link-list {
+        padding-left: 1.1rem;
+      }
+
+      .link-list li + li {
+        margin-top: 0.45rem;
+      }
+
       @media (max-width: 48rem) {
         .site-header,
         main {
@@ -390,6 +464,10 @@
 
         .section-anchor-list {
           grid-template-columns: 1fr 1fr;
+        }
+
+        .route-card {
+          grid-template-columns: 1fr;
         }
       }
     </style>
