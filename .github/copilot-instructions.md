@@ -66,6 +66,7 @@ Use [Designsystemet](https://designsystemet.no/no/fundamentals/) for design prin
 - Home and cabin pages can feel more editorial and inviting
 - Keep content skimmable and reduce clutter and repetition
 - Suggest clearer wording when the current text feels awkward or overly literal
+- Never publish passwords, door codes, or other sensitive access details on the public website
 
 ## Accessibility
 
@@ -82,6 +83,7 @@ Use [Designsystemet](https://designsystemet.no/no/fundamentals/) for design prin
 - Prioritize structure before polish when both are in flux
 - Prefer small, understandable improvements over large rewrites
 - Keep the technical solution easy to maintain
+- Always update `ARBEIDSLOGG-HYTTENETTSIDE.md` when changes are made, with a short note on what changed and why
 
 ## Testing And Delivery
 

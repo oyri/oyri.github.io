@@ -20,9 +20,14 @@ This page collects the practical information you may need before and during your
   <li><a href="#arrival-and-access">Arrival</a></li>
   <li><a href="#wifi">WiFi</a></li>
   <li><a href="#lights">Lights</a></li>
+  <li><a href="#heating">Heating</a></li>
+  <li><a href="#drinking-water">Water</a></li>
   <li><a href="#kitchen">Kitchen</a></li>
+  <li><a href="#tv-and-entertainment">TV</a></li>
+  <li><a href="#bathroom">Bathroom</a></li>
   <li><a href="#sauna">Sauna</a></li>
   <li><a href="#waste-and-recycling">Waste</a></li>
+  <li><a href="#electric-car-charging">EV charging</a></li>
   <li><a href="#before-you-leave">Departure</a></li>
   <li><a href="#contact">Contact</a></li>
 </ul>
@@ -100,7 +105,7 @@ Some switches control the same lights from different places. If nothing happens 
 
 ---
 
-## Heating
+<h2 id="heating">Heating</h2>
 
 There is underfloor heating in the hallway, living room, kitchen, and bathrooms. The system reacts slowly because it is water-based.
 
@@ -112,17 +117,21 @@ Please do not adjust the main heating control panel.
 
 ---
 
-## Drinking Water
+<h2 id="drinking-water">Drinking Water</h2>
 
-Tap water can normally be used for cooking, showering, brushing teeth, and washing up. We want to mention that there have previously been issues with the well, so we provide separate drinking water for guests.
+Tap water can be used for cooking, showering, brushing teeth, and washing up. We want to mention that there have been issues with the well that are not fully resolved, so guests can choose whether to use separate drinking water.
 
-A 5-litre container is kept in the refrigerator and can be refilled from the 20-litre containers stored outside behind the cabin in the shade. Please leave all containers at the cabin when you depart.
+There is a drinking water container in the refrigerator. It can be refilled from the 20-litre containers stored outside behind the cabin in the shade. Please leave all containers at the cabin when you depart.
 
 ---
 
 <h2 id="kitchen">Kitchen</h2>
 
 The kitchen is fully equipped for everyday cooking. There are two visible drawers in the base cabinet, and an extra hidden white drawer inside the upper one. Wine and beer glasses are stored in the cabinet behind the bar stool closest to the hallway.
+
+<div class="image-frame image-frame--lg">
+  <img src="../img/info/wine-glases.png" alt="Wine and beer glasses in the cabinet.">
+</div>
 
 ### Oven
 
@@ -133,7 +142,7 @@ The kitchen is fully equipped for everyday cooking. There are two visible drawer
 ### Dishwasher
 
 - Turn it on
-- Select a program
+- Select a program, or use the default one of about 3 hours
 - Press `Start`
 - Tablets are stored under the sink
 - A light on the floor shows that the machine is running
@@ -163,15 +172,16 @@ The freezer is located in the stairwell. Plug it in if you want to use it.
 
 ---
 
-## TV and Entertainment
+<h2 id="tv-and-entertainment">TV and Entertainment</h2>
 
 - Streaming services such as Strim, Netflix, and HBO are available
 - Please use your own accounts and remember to log out before leaving
+- If you need another streaming service, you can install it from the Apps menu on the TV
 - For audio, use the Sonos app or Bluetooth speakers
 
 ---
 
-## Bathroom
+<h2 id="bathroom">Bathroom</h2>
 
 Please turn on the fan when showering. The button is placed by the bathroom entrance door.
 
@@ -217,7 +227,7 @@ The coffee table in the upstairs living room opens in the middle. Lift it carefu
 
 ---
 
-## Electric Car Charging
+<h2 id="electric-car-charging">Electric Car Charging</h2>
 
 Chargers are available at Dalalaven Cafe and ski center, around 500 metres from the cabin.
 
@@ -233,13 +243,15 @@ There are also high-power chargers in Sogndal.
 
 <h2 id="before-you-leave">Before You Leave</h2>
 
-- Start the dishwasher if needed
+- Place any dishes in the dishwasher and start it
 - Otherwise, wash and put away all kitchen utensils and tableware
 - Place used towels in the bathroom
+- Take your rubbish to the shared waste containers at Hodlekve ski center
 - Turn off the bathroom fan
-- Close all windows
-- Lock the balcony door, the laundry room from the inside, and the main door
-- We appreciate it if you remove bed linen and leave it in the laundry room
+- Close all windows and check that the balcony door is locked
+- Lock the laundry room door from the inside
+- Lock the main door
+- We would appreciate it if you remove the bed linen and leave it in the laundry room
 - Please report any damage to the owners
 
 ---
@@ -248,7 +260,7 @@ There are also high-power chargers in Sogndal.
 
 - Randi Oyri: +47 41518358
 - Espen Korra: +47 92808669
-- Or contact us through Airbnb messages
+- Preferably contact us through Airbnb messages, or reach us directly if needed
 
 ---
 

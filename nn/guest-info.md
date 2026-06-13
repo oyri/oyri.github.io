@@ -13,16 +13,21 @@ Her finn du den praktiske informasjonen du kan trenge før og under opphaldet p�
 <a class="eyebrow-link" href="cabin">Tilbake til hyttesida</a>
 
 <div class="callout">
-  <p><strong>Snøgg oversikt:</strong> Her finn du informasjon om tilgang, husreglar, kjøkken, boss, og kva du bør gjere før avreise.</p>
+  <p><strong>Snøgg oversikt:</strong> Her finn du informasjon om tilgang, husreglar, kjøkken, bosshandtering og kva du bør gjere før avreise.</p>
 </div>
 
 <ul class="section-anchor-list">
   <li><a href="#ankomst-og-tilgang">Ankomst</a></li>
   <li><a href="#wifi">Wifi</a></li>
   <li><a href="#lys">Lys</a></li>
+  <li><a href="#varme">Varme</a></li>
+  <li><a href="#drikkevatn">Vatn</a></li>
   <li><a href="#kjokken">Kjøkken</a></li>
+  <li><a href="#tv-og-underhaldning">TV</a></li>
+  <li><a href="#bad">Bad</a></li>
   <li><a href="#badstove">Badstove</a></li>
   <li><a href="#boss-og-sortering">Boss</a></li>
+  <li><a href="#elbillading">Elbillading</a></li>
   <li><a href="#for-du-reiser">Avreise</a></li>
   <li><a href="#kontakt">Kontakt</a></li>
 </ul>
@@ -100,7 +105,7 @@ Nokre brytarar styrer same lys frå fleire stader. Dersom ingenting skjer ved f�
 
 ---
 
-## Varme
+<h2 id="varme">Varme</h2>
 
 Det er vassboren golvvarme i gangen, stova, kjøkkenet og bada. Systemet reagerer seint fordi varmen er vassboren.
 
@@ -112,17 +117,21 @@ Ikkje juster hovudpanelet for varmen.
 
 ---
 
-## Drikkevatn
+<h2 id="drikkevatn">Drikkevatn</h2>
 
-Springvatnet kan brukast til matlaging, dusjing, tannpuss og oppvask. Vi vil likevel opplyse om at det tidlegare har vore utfordringar med brønnen, så vi har sett fram eige drikkevatn til gjester.
+Springvatnet kan brukast til matlaging, dusjing, tannpuss og oppvask. Vi vil likevel opplyse om at det har vore utfordringar med brønnen som ikkje er heilt løyste enno, slik at gjester kan velje sjølve om dei vil bruke eige drikkevatn.
 
-Ei 5-literskanne står i kjøleskapet og kan fyllast frå 20-literskannene som står ute bak hytta i skuggen. Ver venleg å la alle kannene vere att på hytta ved avreise.
+Det står ei drikkevasskanne i kjøleskapet. Ho kan fyllast frå 20-literskannene som står ute bak hytta i skuggen. Ver venleg å la alle kannene vere att på hytta ved avreise.
 
 ---
 
 <h2 id="kjokken">Kjøkken</h2>
 
 Kjøkkenet er godt utstyrt for vanleg matlaging. I underskapet er det to synlege skuffer, og inni den øvste ligg det ei ekstra skjult kvit skuff. Vin- og ølglas står i skapet bak barkrakken nærast gangen.
+
+<div class="image-frame image-frame--lg">
+  <img src="../img/info/wine-glases.png" alt="Vin- og ølglas i kjøkkenøy.">
+</div>
 
 ### Ovn
 
@@ -133,7 +142,7 @@ Kjøkkenet er godt utstyrt for vanleg matlaging. I underskapet er det to synlege
 ### Oppvaskmaskin
 
 - Slå på maskina
-- Vel program
+- Vel program, eller bruk standardprogrammet på om lag 3 timar
 - Trykk `Start`
 - Tablettar ligg under vasken
 - Eit lys på golvet viser at maskina går
@@ -163,15 +172,16 @@ Frysaren står i trappegangen. Kople han til om du vil bruke han.
 
 ---
 
-## TV og underhaldning
+<h2 id="tv-og-underhaldning">TV og underhaldning</h2>
 
 - Strim, Netflix og HBO er tilgjengeleg
 - Bruk eigne kontoar og hugs å logge ut før avreise
+- Om du treng ei anna strøymeteneste, kan du installere henne frå Apps-menyen på TV-en
 - For lyd kan du bruke Sonos-appen eller Bluetooth-høgtalarar
 
 ---
 
-## Bad
+<h2 id="bad">Bad</h2>
 
 Slå på vifta når du dusjar. Knappen står ved baddøra.
 
@@ -217,7 +227,7 @@ Sofabordet i stova oppe kan opnast i midten. Løft det forsiktig til sida. Det l
 
 ---
 
-## Elbillading
+<h2 id="elbillading">Elbillading</h2>
 
 Det finst ladarar ved Dalalåven kafé og skisenter, om lag 500 meter frå hytta.
 
@@ -233,12 +243,14 @@ Det finst også hurtigladarar i Sogndal.
 
 <h2 id="for-du-reiser">Før du reiser</h2>
 
-- Start oppvaskmaskina ved behov
+- Set eventuell oppvask inn i oppvaskmaskina og start ho
 - Elles skal alt kjøkkenutstyr og servise vaskast og setjast på plass
 - Legg brukte handkle på badet
+- Ta med søppel og kast det i containerane ved Hodlekve skisenter
 - Slå av baderomsvifta
-- Lukk alle vindauge
-- Lås balkongdøra, vaskerommet frå innsida, og hovuddøra
+- Lukk alle vindauge og sjekk at balkongdøra er låst
+- Lås vaskeromsdøra frå innsida
+- Lås hovuddøra
 - Vi set pris på om du tek av sengetøyet og legg det i vaskerommet
 - Sei frå til eigarane dersom noko er øydelagt
 
@@ -248,7 +260,7 @@ Det finst også hurtigladarar i Sogndal.
 
 - Randi Øyri: +47 41518358
 - Espen Kørra: +47 92808669
-- Eller kontakt oss via Airbnb-meldingar
+- Kontakt oss helst via Airbnb-meldingar, eller direkte om det trengst
 
 ---
 
